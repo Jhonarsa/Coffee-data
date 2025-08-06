@@ -7,12 +7,12 @@ Ready-to-use dataset compatible with Python, R, Power BI, and other analytical t
 
 📊 Dataset Description
 
-  Column                 Description  
-| Country              | Generic country identifier (e.g., Country 1, Country 2...) | 
-| Coffee type          | Type of coffee (e.g., Arabica, Robusta) | 
-| Year                 | Year of consumption (format YYYY or YYYY/YY) | 
-| Domestic Consumption | Annual domestic consumption (scaled using a constant multiplier) | 
-| Continent            | Continent assigned via geolocation using pycountry_convert | 
+  Columns  
+Country: Generic country identifier (e.g., Country 1, Country 2...)
+Coffee type: Type of coffee (e.g., Arabica, Robusta)  
+Year: Year of consumption (format YYYY or YYYY/YY) 
+Total_domestic_consumption: Annual domestic consumption (scaled using a constant multiplier) 
+Continent: Continent assigned via geolocation using pycountry_convert 
 
 🔐 Data Transformations
 - Real country names were replaced with generic labels.
