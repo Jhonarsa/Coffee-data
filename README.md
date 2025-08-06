@@ -6,8 +6,6 @@ This repository contains an anonymized dataset on domestic coffee consumption by
 Ready-to-use dataset compatible with Python, R, Power BI, and other analytical tools.
 
 📊 Dataset Description
-
-Columns  
 - Country: Generic country identifier (e.g., Country 1, Country 2...)
 - Coffee type: Type of coffee (e.g., Arabica, Robusta)
 - Year: Year of consumption (format YYYY or YYYY/YY) 
