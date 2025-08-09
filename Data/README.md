@@ -20,7 +20,7 @@ Ready-to-use dataset compatible with Python, R, Power BI, and other analytical t
 🐍 How to Load the Dataset in Pytho
 
 import pandas as pd
-url = "https://raw.githubusercontent.com/Jhonarsa/Coffee-data/refs/heads/main/Anonymized%20coffee%20data.csv"
+url = "https://raw.githubusercontent.com/Jhonarsa/Coffee-data/refs/heads/main/Data/Coffee%20data.csv"
 df = pd.read_csv(url)
 print(df.head())
 
