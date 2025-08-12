@@ -1,1561 +1,1508 @@
 Country,Coffee type,Total_domestic_consumption,Year,Consumption,Continent
 Country 1,Robusta/Arabica,46500000,1990,1344000.0,Africa
-Country 2,Arabica,75180000,1990,1680000.0,South America
-Country 3,Arabica/Robusta,27824700000,1990,551040000.0,South America
-Country 4,Arabica/Robusta,3412020,1990,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,1990,23520000.0,South America
-Country 6,Robusta/Arabica,4920480000,1990,83462400.0,Asia
-Country 7,Robusta,588705960,1990,23520000.0,Africa
-Country 8,Arabica,2340000,1990,134400.0,Africa
-Country 9,Arabica/Robusta,3608400,1990,201600.0,Oceania
-Country 10,Arabica,35100000,1990,1008000.0,South America
-Country 11,Arabica,402000000,1990,12768000.0,South America
-Country 12,Arabica,2139960,1990,67200.0,Africa
-Country 13,Arabica,294000,1990,0.0,Asia
-Country 14,Arabica,8595960,1990,537600.0,Africa
-Country 15,Robusta,5360040,1990,201600.0,Africa
-Country 16,Arabica,384006000,1990,14313600.0,North America
-Country 17,Arabica/Robusta,642823380,1990,21504000.0,North America
-Country 18,Arabica,600600000,1990,14784000.0,North America
-Country 19,Robusta/Arabica,2807280000,1990,48384000.0,Asia
-Country 20,Arabica/Robusta,76425060,1990,268800.0,Africa
-Country 22,Robusta/Arabica,143450940,1990,5597760.0,Africa
-Country 23,Robusta,24794400,1990,1881600.0,Africa
-Country 24,Arabica,2536776384,1990,82992000.0,South America
-Country 25,Arabica,665335200,1990,25200000.0,North America
-Country 26,Robusta,410260140,1990,3360000.0,Africa
-Country 27,Robusta/Arabica,359880000,1990,13440000.0,Africa
-Country 28,Arabica,417242040,1990,12096000.0,North America
-Country 30,Arabica,4536540000,1990,80640000.0,Africa
-Country 31,Robusta,1123140,1990,114240.0,Africa
-Country 32,Robusta,9970800,1990,1142400.0,Africa
-Country 33,Arabica/Robusta,590880000,1990,20160000.0,North America
-Country 34,Robusta,86730000,1990,1680000.0,Africa
-Country 35,Robusta,9203040,1990,0.0,South America
-Country 36,Arabica,471850680,1990,12643948.8,North America
-Country 37,Robusta/Arabica,2093460000,1990,60681600.0,Asia
-Country 38,Arabica,18688020,1990,470400.0,North America
-Country 39,Arabica,95190000,1990,3360000.0,Africa
-Country 40,Robusta,157980000,1990,0.0,Asia
-Country 41,Robusta,8640000,1990,201600.0,Africa
-Country 42,Arabica/Robusta,3189660000,1990,92332800.0,North America
-Country 44,Arabica,299700300,1990,2284800.0,North America
-Country 45,Robusta,70740000,1990,1848000.0,Africa
-Country 46,Arabica,122916960,1990,4233600.0,North America
-Country 47,Robusta,10080000,1990,604800.0,Africa
-Country 48,Robusta/Arabica,58300020,1990,4480022.4,Asia
-Country 49,Robusta/Arabica,1248600000,1990,12633600.0,Asia
-Country 50,Robusta,2167620,1990,67200.0,Africa
-Country 51,Robusta,21090000,1990,537600.0,North America
-Country 52,Robusta/Arabica,284816400,1990,4704000.0,Africa
-Country 53,Arabica,2386067999,1990,52576608.0,South America
-Country 54,Robusta/Arabica,1920928320,1990,10080000.0,Asia
-Country 55,Arabica,121620000,1990,0.0,Asia
 Country 1,Robusta/Arabica,46500000,1991,2016000.0,Africa
-Country 2,Arabica,75180000,1991,1814400.0,South America
-Country 3,Arabica/Robusta,27824700000,1991,571200000.0,South America
-Country 4,Arabica/Robusta,3412020,1991,107520.0,Africa
-Country 5,Arabica/Robusta,381540000,1991,23520000.0,South America
-Country 6,Robusta/Arabica,4920480000,1991,86016000.0,Asia
-Country 7,Robusta,588705960,1991,20160000.0,Africa
-Country 8,Arabica,2340000,1991,134400.0,Africa
-Country 9,Arabica/Robusta,3608400,1991,201600.0,Oceania
-Country 10,Arabica,35100000,1991,1008000.0,South America
-Country 11,Arabica,402000000,1991,12768000.0,South America
-Country 12,Arabica,2139960,1991,67200.0,Africa
-Country 13,Arabica,294000,1991,0.0,Asia
-Country 14,Arabica,8595960,1991,537600.0,Africa
-Country 15,Robusta,5360040,1991,179222.4,Africa
-Country 16,Arabica,384006000,1991,14313600.0,North America
-Country 17,Arabica/Robusta,642823380,1991,21504000.0,North America
-Country 18,Arabica,600600000,1991,22176000.0,North America
-Country 19,Robusta/Arabica,2807280000,1991,50400000.0,Asia
-Country 20,Arabica/Robusta,76425060,1991,235200.0,Africa
-Country 22,Robusta/Arabica,143450940,1991,5599977.6,Africa
-Country 23,Robusta,24794400,1991,1881600.0,Africa
-Country 24,Arabica,2536776384,1991,85276800.0,South America
-Country 25,Arabica,665335200,1991,25200000.0,North America
-Country 26,Robusta,410260140,1991,3360000.0,Africa
-Country 27,Robusta/Arabica,359880000,1991,13440000.0,Africa
-Country 28,Arabica,417242040,1991,12096000.0,North America
-Country 30,Arabica,4536540000,1991,84940800.0,Africa
-Country 31,Robusta,1123140,1991,67200.0,Africa
-Country 32,Robusta,9970800,1991,1142400.0,Africa
-Country 33,Arabica/Robusta,590880000,1991,20160000.0,North America
-Country 34,Robusta,86730000,1991,1680000.0,Africa
-Country 35,Robusta,9203040,1991,0.0,South America
-Country 36,Arabica,471850680,1991,17277120.0,North America
-Country 37,Robusta/Arabica,2093460000,1991,61600022.4,Asia
-Country 38,Arabica,18688020,1991,739200.0,North America
-Country 39,Arabica,95190000,1991,3360000.0,Africa
-Country 40,Robusta,157980000,1991,0.0,Asia
-Country 41,Robusta,8640000,1991,201600.0,Africa
-Country 42,Arabica/Robusta,3189660000,1991,80640000.0,North America
-Country 44,Arabica,299700300,1991,9273600.0,North America
-Country 45,Robusta,70740000,1991,2402400.0,Africa
-Country 46,Arabica,122916960,1991,4502400.0,North America
-Country 47,Robusta,10080000,1991,604800.0,Africa
-Country 48,Robusta/Arabica,58300020,1991,4502400.0,Asia
-Country 49,Robusta/Arabica,1248600000,1991,14784000.0,Asia
-Country 50,Robusta,2167620,1991,67200.0,Africa
-Country 51,Robusta,21090000,1991,772800.0,North America
-Country 52,Robusta/Arabica,284816400,1991,5040000.0,Africa
-Country 53,Arabica,2386067999,1991,54800256.0,South America
-Country 54,Robusta/Arabica,1920928320,1991,15456000.0,Asia
-Country 55,Arabica,121620000,1991,0.0,Asia
 Country 1,Robusta/Arabica,46500000,1992,2352000.0,Africa
-Country 2,Arabica,75180000,1992,1848000.0,South America
-Country 3,Arabica/Robusta,27824700000,1992,598080000.0,South America
-Country 4,Arabica/Robusta,3412020,1992,114240.0,Africa
-Country 5,Arabica/Robusta,381540000,1992,23520000.0,South America
-Country 6,Robusta/Arabica,4920480000,1992,88636800.0,Asia
-Country 7,Robusta,588705960,1992,23520000.0,Africa
-Country 8,Arabica,2340000,1992,134400.0,Africa
-Country 9,Arabica/Robusta,3608400,1992,201600.0,Oceania
-Country 10,Arabica,35100000,1992,1008000.0,South America
-Country 11,Arabica,402000000,1992,13440000.0,South America
-Country 12,Arabica,2139960,1992,67200.0,Africa
-Country 13,Arabica,294000,1992,0.0,Asia
-Country 14,Arabica,8595960,1992,537600.0,Africa
-Country 15,Robusta,5360040,1992,179222.4,Africa
-Country 16,Arabica,384006000,1992,13104000.0,North America
-Country 17,Arabica/Robusta,642823380,1992,21504000.0,North America
-Country 18,Arabica,600600000,1992,22176000.0,North America
-Country 19,Robusta/Arabica,2807280000,1992,50400000.0,Asia
-Country 20,Arabica/Robusta,76425060,1992,1290240.0,Africa
-Country 22,Robusta/Arabica,143450940,1992,5599977.6,Africa
-Country 23,Robusta,24794400,1992,1881600.0,Africa
-Country 24,Arabica,2536776384,1992,87561600.0,South America
-Country 25,Arabica,665335200,1992,25200000.0,North America
-Country 26,Robusta,410260140,1992,3360000.0,Africa
-Country 27,Robusta/Arabica,359880000,1992,13440000.0,Africa
-Country 28,Arabica,417242040,1992,15456000.0,North America
-Country 30,Arabica,4536540000,1992,89443200.0,Africa
-Country 31,Robusta,1123140,1992,53760.0,Africa
-Country 32,Robusta,9970800,1992,1142400.0,Africa
-Country 33,Arabica/Robusta,590880000,1992,20160000.0,North America
-Country 34,Robusta,86730000,1992,4200000.0,Africa
-Country 35,Robusta,9203040,1992,0.0,South America
-Country 36,Arabica,471850680,1992,16128000.0,North America
-Country 37,Robusta/Arabica,2093460000,1992,61622400.0,Asia
-Country 38,Arabica,18688020,1992,403200.0,North America
-Country 39,Arabica,95190000,1992,3360000.0,Africa
-Country 40,Robusta,157980000,1992,0.0,Asia
-Country 41,Robusta,8640000,1992,201600.0,Africa
-Country 42,Arabica/Robusta,3189660000,1992,87360000.0,North America
-Country 44,Arabica,299700300,1992,4408320.0,North America
-Country 45,Robusta,70740000,1992,2402400.0,Africa
-Country 46,Arabica,122916960,1992,4502400.0,North America
-Country 47,Robusta,10080000,1992,604800.0,Africa
-Country 48,Robusta/Arabica,58300020,1992,1881600.0,Asia
-Country 49,Robusta/Arabica,1248600000,1992,15657600.0,Asia
-Country 50,Robusta,2167620,1992,67200.0,Africa
-Country 51,Robusta,21090000,1992,672000.0,North America
-Country 52,Robusta/Arabica,284816400,1992,5040000.0,Africa
-Country 53,Arabica,2386067999,1992,57117984.0,South America
-Country 54,Robusta/Arabica,1920928320,1992,16800000.0,Asia
-Country 55,Arabica,121620000,1992,0.0,Asia
 Country 1,Robusta/Arabica,46500000,1993,1344000.0,Africa
-Country 2,Arabica,75180000,1993,1915200.0,South America
-Country 3,Arabica/Robusta,27824700000,1993,611520000.0,South America
-Country 4,Arabica/Robusta,3412020,1993,128352.0,Africa
-Country 5,Arabica/Robusta,381540000,1993,23520000.0,South America
-Country 6,Robusta/Arabica,4920480000,1993,91324800.0,Asia
-Country 7,Robusta,588705960,1993,24192000.0,Africa
-Country 8,Arabica,2340000,1993,134400.0,Africa
-Country 9,Arabica/Robusta,3608400,1993,134400.0,Oceania
-Country 10,Arabica,35100000,1993,1344000.0,South America
-Country 11,Arabica,402000000,1993,13440000.0,South America
-Country 12,Arabica,2139960,1993,67200.0,Africa
-Country 13,Arabica,294000,1993,0.0,Asia
-Country 14,Arabica,8595960,1993,559977.6,Africa
-Country 15,Robusta,5360040,1993,201600.0,Africa
-Country 16,Arabica,384006000,1993,13043520.0,North America
-Country 17,Arabica/Robusta,642823380,1993,21504000.0,North America
-Country 18,Arabica,600600000,1993,22176000.0,North America
-Country 19,Robusta/Arabica,2807280000,1993,51744000.0,Asia
-Country 20,Arabica/Robusta,76425060,1993,1176000.0,Africa
-Country 22,Robusta/Arabica,143450940,1993,6720000.0,Africa
-Country 23,Robusta,24794400,1993,1680000.0,Africa
-Country 24,Arabica,2536776384,1993,89980800.0,South America
-Country 25,Arabica,665335200,1993,25200000.0,North America
-Country 26,Robusta,410260140,1993,3360000.0,Africa
-Country 27,Robusta/Arabica,359880000,1993,13440000.0,Africa
-Country 28,Arabica,417242040,1993,15456000.0,North America
-Country 30,Arabica,4536540000,1993,94214400.0,Africa
-Country 31,Robusta,1123140,1993,53760.0,Africa
-Country 32,Robusta,9970800,1993,1142400.0,Africa
-Country 33,Arabica/Robusta,590880000,1993,20832000.0,North America
-Country 34,Robusta,86730000,1993,2217600.0,Africa
-Country 35,Robusta,9203040,1993,0.0,South America
-Country 36,Arabica,471850680,1993,15456000.0,North America
-Country 37,Robusta/Arabica,2093460000,1993,55999977.6,Asia
-Country 38,Arabica,18688020,1993,645120.0,North America
-Country 39,Arabica,95190000,1993,3360000.0,Africa
-Country 40,Robusta,157980000,1993,0.0,Asia
-Country 41,Robusta,8640000,1993,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,1993,71904000.0,North America
-Country 44,Arabica,299700300,1993,7318080.0,North America
-Country 45,Robusta,70740000,1993,2688000.0,Africa
-Country 46,Arabica,122916960,1993,4502400.0,North America
-Country 47,Robusta,10080000,1993,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,1993,1344000.0,Asia
-Country 49,Robusta/Arabica,1248600000,1993,16800000.0,Asia
-Country 50,Robusta,2167620,1993,67200.0,Africa
-Country 51,Robusta,21090000,1993,672000.0,North America
-Country 52,Robusta/Arabica,284816400,1993,5040000.0,Africa
-Country 53,Arabica,2386067999,1993,59534496.0,South America
-Country 54,Robusta/Arabica,1920928320,1993,17942400.0,Asia
-Country 55,Arabica,121620000,1993,0.0,Asia
 Country 1,Robusta/Arabica,46500000,1994,1680000.0,Africa
-Country 2,Arabica,75180000,1994,1982400.0,South America
-Country 3,Arabica/Robusta,27824700000,1994,624960000.0,South America
-Country 4,Arabica/Robusta,3412020,1994,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,1994,23520000.0,South America
-Country 6,Robusta/Arabica,4920480000,1994,94080000.0,Asia
-Country 7,Robusta,588705960,1994,11199955.2,Africa
-Country 8,Arabica,2340000,1994,134400.0,Africa
-Country 9,Arabica/Robusta,3608400,1994,134400.0,Oceania
-Country 10,Arabica,35100000,1994,1344000.0,South America
-Country 11,Arabica,402000000,1994,13440000.0,South America
-Country 12,Arabica,2139960,1994,67200.0,Africa
-Country 13,Arabica,294000,1994,0.0,Asia
-Country 14,Arabica,8595960,1994,559977.6,Africa
-Country 15,Robusta,5360040,1994,201600.0,Africa
-Country 16,Arabica,384006000,1994,13036800.0,North America
-Country 17,Arabica/Robusta,642823380,1994,22176000.0,North America
-Country 18,Arabica,600600000,1994,22176000.0,North America
-Country 19,Robusta/Arabica,2807280000,1994,53088000.0,Asia
-Country 20,Arabica/Robusta,76425060,1994,1176000.0,Africa
-Country 22,Robusta/Arabica,143450940,1994,6720000.0,Africa
-Country 23,Robusta,24794400,1994,1008000.0,Africa
-Country 24,Arabica,2536776384,1994,92400000.0,South America
-Country 25,Arabica,665335200,1994,25200000.0,North America
-Country 26,Robusta,410260140,1994,3360000.0,Africa
-Country 27,Robusta/Arabica,359880000,1994,13440000.0,Africa
-Country 28,Arabica,417242040,1994,15456000.0,North America
-Country 30,Arabica,4536540000,1994,99187200.0,Africa
-Country 31,Robusta,1123140,1994,67200.0,Africa
-Country 32,Robusta,9970800,1994,1881600.0,Africa
-Country 33,Arabica/Robusta,590880000,1994,20832000.0,North America
-Country 34,Robusta,86730000,1994,3360000.0,Africa
-Country 35,Robusta,9203040,1994,0.0,South America
-Country 36,Arabica,471850680,1994,17001600.0,North America
-Country 37,Robusta/Arabica,2093460000,1994,56112000.0,Asia
-Country 38,Arabica,18688020,1994,1008000.0,North America
-Country 39,Arabica,95190000,1994,3360000.0,Africa
-Country 40,Robusta,157980000,1994,0.0,Asia
-Country 41,Robusta,8640000,1994,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,1994,68544000.0,North America
-Country 44,Arabica,299700300,1994,6021120.0,North America
-Country 45,Robusta,70740000,1994,2688000.0,Africa
-Country 46,Arabica,122916960,1994,5152022.4,North America
-Country 47,Robusta,10080000,1994,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,1994,1344000.0,Asia
-Country 49,Robusta/Arabica,1248600000,1994,19017600.0,Asia
-Country 50,Robusta,2167620,1994,67200.0,Africa
-Country 51,Robusta,21090000,1994,940800.0,North America
-Country 52,Robusta/Arabica,284816400,1994,5376000.0,Africa
-Country 53,Arabica,2386067999,1994,62052480.0,South America
-Country 54,Robusta/Arabica,1920928320,1994,17942400.0,Asia
-Country 55,Arabica,121620000,1994,0.0,Asia
 Country 1,Robusta/Arabica,46500000,1995,672000.0,Africa
-Country 2,Arabica,75180000,1995,2049600.0,South America
-Country 3,Arabica/Robusta,27824700000,1995,678720000.0,South America
-Country 4,Arabica/Robusta,3412020,1995,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,1995,23520000.0,South America
-Country 6,Robusta/Arabica,4920480000,1995,96969600.0,Asia
-Country 7,Robusta,588705960,1995,11222400.0,Africa
-Country 8,Arabica,2340000,1995,134400.0,Africa
-Country 9,Arabica/Robusta,3608400,1995,134400.0,Oceania
-Country 10,Arabica,35100000,1995,1344000.0,South America
-Country 11,Arabica,402000000,1995,13440000.0,South America
-Country 12,Arabica,2139960,1995,67200.0,Africa
-Country 13,Arabica,294000,1995,0.0,Asia
-Country 14,Arabica,8595960,1995,443520.0,Africa
-Country 15,Robusta,5360040,1995,201600.0,Africa
-Country 16,Arabica,384006000,1995,13036800.0,North America
-Country 17,Arabica/Robusta,642823380,1995,23520000.0,North America
-Country 18,Arabica,600600000,1995,22176000.0,North America
-Country 19,Robusta/Arabica,2807280000,1995,54432000.0,Asia
-Country 20,Arabica/Robusta,76425060,1995,913920.0,Africa
-Country 22,Robusta/Arabica,143450940,1995,6720000.0,Africa
-Country 23,Robusta,24794400,1995,672000.0,Africa
-Country 24,Arabica,2536776384,1995,91324800.0,South America
-Country 25,Arabica,665335200,1995,25200000.0,North America
-Country 26,Robusta,410260140,1995,3360000.0,Africa
-Country 27,Robusta/Arabica,359880000,1995,13440000.0,Africa
-Country 28,Arabica,417242040,1995,18144000.0,North America
-Country 30,Arabica,4536540000,1995,104496000.0,Africa
-Country 31,Robusta,1123140,1995,53760.0,Africa
-Country 32,Robusta,9970800,1995,1881600.0,Africa
-Country 33,Arabica/Robusta,590880000,1995,20832000.0,North America
-Country 34,Robusta,86730000,1995,3360000.0,Africa
-Country 35,Robusta,9203040,1995,0.0,South America
-Country 36,Arabica,471850680,1995,10819200.0,North America
-Country 37,Robusta/Arabica,2093460000,1995,56246400.0,Asia
-Country 38,Arabica,18688020,1995,1008000.0,North America
-Country 39,Arabica,95190000,1995,3360000.0,Africa
-Country 40,Robusta,157980000,1995,0.0,Asia
-Country 41,Robusta,8640000,1995,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,1995,79228800.0,North America
-Country 44,Arabica,299700300,1995,7492800.0,North America
-Country 45,Robusta,70740000,1995,2688000.0,Africa
-Country 46,Arabica,122916960,1995,5152022.4,North America
-Country 47,Robusta,10080000,1995,537600.0,Africa
-Country 48,Robusta/Arabica,58300020,1995,1344000.0,Asia
-Country 49,Robusta/Arabica,1248600000,1995,28022400.0,Asia
-Country 50,Robusta,2167620,1995,67200.0,Africa
-Country 51,Robusta,21090000,1995,940800.0,North America
-Country 52,Robusta/Arabica,284816400,1995,5376000.0,Africa
-Country 53,Arabica,2386067999,1995,64677312.0,South America
-Country 54,Robusta/Arabica,1920928320,1995,18939984.0,Asia
-Country 55,Arabica,121620000,1995,0.0,Asia
 Country 1,Robusta/Arabica,46500000,1996,1344000.0,Africa
-Country 2,Arabica,75180000,1996,2116800.0,South America
-Country 3,Arabica/Robusta,27824700000,1996,739200000.0,South America
-Country 4,Arabica/Robusta,3412020,1996,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,1996,20160000.0,South America
-Country 6,Robusta/Arabica,4920480000,1996,99859200.0,Asia
-Country 7,Robusta,588705960,1996,11222400.0,Africa
-Country 8,Arabica,2340000,1996,134400.0,Africa
-Country 9,Arabica/Robusta,3608400,1996,134400.0,Oceania
-Country 10,Arabica,35100000,1996,1344000.0,South America
-Country 11,Arabica,402000000,1996,13440000.0,South America
-Country 12,Arabica,2139960,1996,67200.0,Africa
-Country 13,Arabica,294000,1996,0.0,Asia
-Country 14,Arabica,8595960,1996,268800.0,Africa
-Country 15,Robusta,5360040,1996,201600.0,Africa
-Country 16,Arabica,384006000,1996,12700800.0,North America
-Country 17,Arabica/Robusta,642823380,1996,21840000.0,North America
-Country 18,Arabica,600600000,1996,22176000.0,North America
-Country 19,Robusta/Arabica,2807280000,1996,55843200.0,Asia
-Country 20,Arabica/Robusta,76425060,1996,1115520.0,Africa
-Country 22,Robusta/Arabica,143450940,1996,6720000.0,Africa
-Country 23,Robusta,24794400,1996,672000.0,Africa
-Country 24,Arabica,2536776384,1996,90249600.0,South America
-Country 25,Arabica,665335200,1996,25200000.0,North America
-Country 26,Robusta,410260140,1996,3360000.0,Africa
-Country 27,Robusta/Arabica,359880000,1996,13440000.0,Africa
-Country 28,Arabica,417242040,1996,15456000.0,North America
-Country 30,Arabica,4536540000,1996,110006400.0,Africa
-Country 31,Robusta,1123140,1996,55977.6,Africa
-Country 32,Robusta,9970800,1996,201600.0,Africa
-Country 33,Arabica/Robusta,590880000,1996,20160000.0,North America
-Country 34,Robusta,86730000,1996,3360000.0,Africa
-Country 35,Robusta,9203040,1996,0.0,South America
-Country 36,Arabica,471850680,1996,11284492.8,North America
-Country 37,Robusta/Arabica,2093460000,1996,56313600.0,Asia
-Country 38,Arabica,18688020,1996,1209600.0,North America
-Country 39,Arabica,95190000,1996,3360000.0,Africa
-Country 40,Robusta,157980000,1996,0.0,Asia
-Country 41,Robusta,8640000,1996,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,1996,82992000.0,North America
-Country 44,Arabica,299700300,1996,6408864.0,North America
-Country 45,Robusta,70740000,1996,2688000.0,Africa
-Country 46,Arabica,122916960,1996,5152022.4,North America
-Country 47,Robusta,10080000,1996,537600.0,Africa
-Country 48,Robusta/Arabica,58300020,1996,1344000.0,Asia
-Country 49,Robusta/Arabica,1248600000,1996,22377600.0,Asia
-Country 50,Robusta,2167620,1996,67200.0,Africa
-Country 51,Robusta,21090000,1996,940800.0,North America
-Country 52,Robusta/Arabica,284816400,1996,5376000.0,Africa
-Country 53,Arabica,2386067999,1996,67413696.0,South America
-Country 54,Robusta/Arabica,1920928320,1996,19993075.2,Asia
-Country 55,Arabica,121620000,1996,0.0,Asia
 Country 1,Robusta/Arabica,46500000,1997,2688000.0,Africa
-Country 2,Arabica,75180000,1997,2184000.0,South America
-Country 3,Arabica/Robusta,27824700000,1997,772800000.0,South America
-Country 4,Arabica/Robusta,3412020,1997,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,1997,20160000.0,South America
-Country 6,Robusta/Arabica,4920480000,1997,102950400.0,Asia
-Country 7,Robusta,588705960,1997,11222400.0,Africa
-Country 8,Arabica,2340000,1997,134400.0,Africa
-Country 9,Arabica/Robusta,3608400,1997,134400.0,Oceania
-Country 10,Arabica,35100000,1997,1344000.0,South America
-Country 11,Arabica,402000000,1997,13440000.0,South America
-Country 12,Arabica,2139960,1997,201600.0,Africa
-Country 13,Arabica,294000,1997,0.0,Asia
-Country 14,Arabica,8595960,1997,268800.0,Africa
-Country 15,Robusta,5360040,1997,201600.0,Africa
-Country 16,Arabica,384006000,1997,13104000.0,North America
-Country 17,Arabica/Robusta,642823380,1997,21840000.0,North America
-Country 18,Arabica,600600000,1997,22176000.0,North America
-Country 19,Robusta/Arabica,2807280000,1997,57321600.0,Asia
-Country 20,Arabica/Robusta,76425060,1997,1142400.0,Africa
-Country 22,Robusta/Arabica,143450940,1997,6720000.0,Africa
-Country 23,Robusta,24794400,1997,672000.0,Africa
-Country 24,Arabica,2536776384,1997,89241600.0,South America
-Country 25,Arabica,665335200,1997,25200000.0,North America
-Country 26,Robusta,410260140,1997,3360000.0,Africa
-Country 27,Robusta/Arabica,359880000,1997,13440000.0,Africa
-Country 28,Arabica,417242040,1997,12880022.4,North America
-Country 30,Arabica,4536540000,1997,115852800.0,Africa
-Country 31,Robusta,1123140,1997,53760.0,Africa
-Country 32,Robusta,9970800,1997,201600.0,Africa
-Country 33,Arabica/Robusta,590880000,1997,20160000.0,North America
-Country 34,Robusta,86730000,1997,3360000.0,Africa
-Country 35,Robusta,9203040,1997,0.0,South America
-Country 36,Arabica,471850680,1997,10819200.0,North America
-Country 37,Robusta/Arabica,2093460000,1997,56380800.0,Asia
-Country 38,Arabica,18688020,1997,1344000.0,North America
-Country 39,Arabica,95190000,1997,3360000.0,Africa
-Country 40,Robusta,157980000,1997,0.0,Asia
-Country 41,Robusta,8640000,1997,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,1997,80707200.0,North America
-Country 44,Arabica,299700300,1997,8265600.0,North America
-Country 45,Robusta,70740000,1997,2688000.0,Africa
-Country 46,Arabica,122916960,1997,5417328.0,North America
-Country 47,Robusta,10080000,1997,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,1997,1344000.0,Asia
-Country 49,Robusta/Arabica,1248600000,1997,26208000.0,Asia
-Country 50,Robusta,2167620,1997,67200.0,Africa
-Country 51,Robusta,21090000,1997,940800.0,North America
-Country 52,Robusta/Arabica,284816400,1997,6799968.0,Africa
-Country 53,Arabica,2386067999,1997,70264990.88,South America
-Country 54,Robusta/Arabica,1920928320,1997,21104697.6,Asia
-Country 55,Arabica,121620000,1997,0.0,Asia
 Country 1,Robusta/Arabica,46500000,1998,2016000.0,Africa
-Country 2,Arabica,75180000,1998,2217600.0,South America
-Country 3,Arabica/Robusta,27824700000,1998,819840000.0,South America
-Country 4,Arabica/Robusta,3412020,1998,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,1998,20160000.0,South America
-Country 6,Robusta/Arabica,4920480000,1998,106041600.0,Asia
-Country 7,Robusta,588705960,1998,11222400.0,Africa
-Country 8,Arabica,2340000,1998,134400.0,Africa
-Country 9,Arabica/Robusta,3608400,1998,67200.0,Oceania
-Country 10,Arabica,35100000,1998,1344000.0,South America
-Country 11,Arabica,402000000,1998,13440000.0,South America
-Country 12,Arabica,2139960,1998,201600.0,Africa
-Country 13,Arabica,294000,1998,0.0,Asia
-Country 14,Arabica,8595960,1998,268800.0,Africa
-Country 15,Robusta,5360040,1998,201600.0,Africa
-Country 16,Arabica,384006000,1998,13440000.0,North America
-Country 17,Arabica/Robusta,642823380,1998,21840000.0,North America
-Country 18,Arabica,600600000,1998,22176000.0,North America
-Country 19,Robusta/Arabica,2807280000,1998,54432000.0,Asia
-Country 20,Arabica/Robusta,76425060,1998,1142400.0,Africa
-Country 22,Robusta/Arabica,143450940,1998,6720000.0,Africa
-Country 23,Robusta,24794400,1998,1276800.0,Africa
-Country 24,Arabica,2536776384,1998,88166400.0,South America
-Country 25,Arabica,665335200,1998,25200000.0,North America
-Country 26,Robusta,410260140,1998,3360000.0,Africa
-Country 27,Robusta/Arabica,359880000,1998,13440000.0,Africa
-Country 28,Arabica,417242040,1998,12880022.4,North America
-Country 30,Arabica,4536540000,1998,122035200.0,Africa
-Country 31,Robusta,1123140,1998,53760.0,Africa
-Country 32,Robusta,9970800,1998,67200.0,Africa
-Country 33,Arabica/Robusta,590880000,1998,20160000.0,North America
-Country 34,Robusta,86730000,1998,3360000.0,Africa
-Country 35,Robusta,9203040,1998,327062.4,South America
-Country 36,Arabica,471850680,1998,9273600.0,North America
-Country 37,Robusta/Arabica,2093460000,1998,60480000.0,Asia
-Country 38,Arabica,18688020,1998,994560.0,North America
-Country 39,Arabica,95190000,1998,3360000.0,Africa
-Country 40,Robusta,157980000,1998,0.0,Asia
-Country 41,Robusta,8640000,1998,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,1998,74457600.0,North America
-Country 44,Arabica,299700300,1998,8500800.0,North America
-Country 45,Robusta,70740000,1998,2688000.0,Africa
-Country 46,Arabica,122916960,1998,4502400.0,North America
-Country 47,Robusta,10080000,1998,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,1998,2016000.0,Asia
-Country 49,Robusta/Arabica,1248600000,1998,29097600.0,Asia
-Country 50,Robusta,2167620,1998,134400.0,Africa
-Country 51,Robusta,21090000,1998,940800.0,North America
-Country 52,Robusta/Arabica,284816400,1998,7795200.0,Africa
-Country 53,Arabica,2386067999,1998,73237248.0,South America
-Country 54,Robusta/Arabica,1920928320,1998,22278076.8,Asia
-Country 55,Arabica,121620000,1998,0.0,Asia
 Country 1,Robusta/Arabica,46500000,1999,1344000.0,Africa
-Country 2,Arabica,75180000,1999,2284800.0,South America
-Country 3,Arabica/Robusta,27824700000,1999,853440000.0,South America
-Country 4,Arabica/Robusta,3412020,1999,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,1999,15456000.0,South America
-Country 6,Robusta/Arabica,4920480000,1999,109267200.0,Asia
-Country 7,Robusta,588705960,1999,3763200.0,Africa
-Country 8,Arabica,2340000,1999,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,1999,134400.0,Oceania
-Country 10,Arabica,35100000,1999,1344000.0,South America
-Country 11,Arabica,402000000,1999,13440000.0,South America
-Country 12,Arabica,2139960,1999,134400.0,Africa
-Country 13,Arabica,294000,1999,0.0,Asia
-Country 14,Arabica,8595960,1999,268800.0,Africa
-Country 15,Robusta,5360040,1999,201600.0,Africa
-Country 16,Arabica,384006000,1999,13440000.0,North America
-Country 17,Arabica/Robusta,642823380,1999,21840000.0,North America
-Country 18,Arabica,600600000,1999,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,1999,57926400.0,Asia
-Country 20,Arabica/Robusta,76425060,1999,940800.0,Africa
-Country 22,Robusta/Arabica,143450940,1999,6720000.0,Africa
-Country 23,Robusta,24794400,1999,1411200.0,Africa
-Country 24,Arabica,2536776384,1999,87158400.0,South America
-Country 25,Arabica,665335200,1999,25200000.0,North America
-Country 26,Robusta,410260140,1999,3360000.0,Africa
-Country 27,Robusta/Arabica,359880000,1999,13440000.0,Africa
-Country 28,Arabica,417242040,1999,10301760.0,North America
-Country 30,Arabica,4536540000,1999,128486400.0,Africa
-Country 31,Robusta,1123140,1999,48048.0,Africa
-Country 32,Robusta,9970800,1999,67200.0,Africa
-Country 33,Arabica/Robusta,590880000,1999,20160000.0,North America
-Country 34,Robusta,86730000,1999,3360000.0,Africa
-Country 35,Robusta,9203040,1999,292320.0,South America
-Country 36,Arabica,471850680,1999,11289600.0,North America
-Country 37,Robusta/Arabica,2093460000,1999,62160000.0,Asia
-Country 38,Arabica,18688020,1999,739200.0,North America
-Country 39,Arabica,95190000,1999,3360000.0,Africa
-Country 40,Robusta,157980000,1999,0.0,Asia
-Country 41,Robusta,8640000,1999,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,1999,77280000.0,North America
-Country 44,Arabica,299700300,1999,8756160.0,North America
-Country 45,Robusta,70740000,1999,2688000.0,Africa
-Country 46,Arabica,122916960,1999,4502400.0,North America
-Country 47,Robusta,10080000,1999,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,1999,2016000.0,Asia
-Country 49,Robusta/Arabica,1248600000,1999,29097600.0,Asia
-Country 50,Robusta,2167620,1999,134400.0,Africa
-Country 51,Robusta,21090000,1999,940800.0,North America
-Country 52,Robusta/Arabica,284816400,1999,7996800.0,Africa
-Country 53,Arabica,2386067999,1999,76335168.0,South America
-Country 54,Robusta/Arabica,1920928320,1999,23520000.0,Asia
-Country 55,Arabica,121620000,1999,0.0,Asia
 Country 1,Robusta/Arabica,46500000,2000,1344000.0,Africa
-Country 2,Arabica,75180000,2000,2352000.0,South America
-Country 3,Arabica/Robusta,27824700000,2000,887040000.0,South America
-Country 4,Arabica/Robusta,3412020,2000,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,2000,13440000.0,South America
-Country 6,Robusta/Arabica,4920480000,2000,112627200.0,Asia
-Country 7,Robusta,588705960,2000,5987520.0,Africa
-Country 8,Arabica,2340000,2000,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2000,134400.0,Oceania
-Country 10,Arabica,35100000,2000,1344000.0,South America
-Country 11,Arabica,402000000,2000,13440000.0,South America
-Country 12,Arabica,2139960,2000,134400.0,Africa
-Country 13,Arabica,294000,2000,0.0,Asia
-Country 14,Arabica,8595960,2000,268800.0,Africa
-Country 15,Robusta,5360040,2000,201600.0,Africa
-Country 16,Arabica,384006000,2000,14313600.0,North America
-Country 17,Arabica/Robusta,642823380,2000,21840000.0,North America
-Country 18,Arabica,600600000,2000,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2000,55104000.0,Asia
-Country 20,Arabica/Robusta,76425060,2000,1008000.0,Africa
-Country 22,Robusta/Arabica,143450940,2000,5040000.0,Africa
-Country 23,Robusta,24794400,2000,201600.0,Africa
-Country 24,Arabica,2536776384,2000,86150400.0,South America
-Country 25,Arabica,665335200,2000,25200000.0,North America
-Country 26,Robusta,410260140,2000,21280022.4,Africa
-Country 27,Robusta/Arabica,359880000,2000,13440000.0,Africa
-Country 28,Arabica,417242040,2000,9676800.0,North America
-Country 30,Arabica,4536540000,2000,135340800.0,Africa
-Country 31,Robusta,1123140,2000,20160.0,Africa
-Country 32,Robusta,9970800,2000,67200.0,Africa
-Country 33,Arabica/Robusta,590880000,2000,20160000.0,North America
-Country 34,Robusta,86730000,2000,3360000.0,Africa
-Country 35,Robusta,9203040,2000,126537.6,South America
-Country 36,Arabica,471850680,2000,15456000.0,North America
-Country 37,Robusta/Arabica,2093460000,2000,65520000.0,Asia
-Country 38,Arabica,18688020,2000,810902.4,North America
-Country 39,Arabica,95190000,2000,3360000.0,Africa
-Country 40,Robusta,157980000,2000,0.0,Asia
-Country 41,Robusta,8640000,2000,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2000,87696000.0,North America
-Country 44,Arabica,299700300,2000,11755296.0,North America
-Country 45,Robusta,70740000,2000,2688000.0,Africa
-Country 46,Arabica,122916960,2000,4502400.0,North America
-Country 47,Robusta,10080000,2000,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2000,2016000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2000,33600000.0,Asia
-Country 50,Robusta,2167620,2000,134400.0,Africa
-Country 51,Robusta,21090000,2000,940800.0,North America
-Country 52,Robusta/Arabica,284816400,2000,9542400.0,Africa
-Country 53,Arabica,2386067999,2000,79564128.0,South America
-Country 54,Robusta/Arabica,1920928320,2000,26989200.0,Asia
-Country 55,Arabica,121620000,2000,0.0,Asia
 Country 1,Robusta/Arabica,46500000,2001,1344000.0,Africa
-Country 2,Arabica,75180000,2001,2452800.0,South America
-Country 3,Arabica/Robusta,27824700000,2001,913248000.0,South America
-Country 4,Arabica/Robusta,3412020,2001,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,2001,13440000.0,South America
-Country 6,Robusta/Arabica,4920480000,2001,134400000.0,Asia
-Country 7,Robusta,588705960,2001,8601600.0,Africa
-Country 8,Arabica,2340000,2001,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2001,134400.0,Oceania
-Country 10,Arabica,35100000,2001,1344000.0,South America
-Country 11,Arabica,402000000,2001,13440000.0,South America
-Country 12,Arabica,2139960,2001,134400.0,Africa
-Country 13,Arabica,294000,2001,0.0,Asia
-Country 14,Arabica,8595960,2001,268800.0,Africa
-Country 15,Robusta,5360040,2001,201600.0,Africa
-Country 16,Arabica,384006000,2001,14784000.0,North America
-Country 17,Arabica/Robusta,642823380,2001,22861305.6,North America
-Country 18,Arabica,600600000,2001,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2001,55171200.0,Asia
-Country 20,Arabica/Robusta,76425060,2001,1008000.0,Africa
-Country 22,Robusta/Arabica,143450940,2001,4636800.0,Africa
-Country 23,Robusta,24794400,2001,201600.0,Africa
-Country 24,Arabica,2536776384,2001,85142400.0,South America
-Country 25,Arabica,665335200,2001,25200000.0,North America
-Country 26,Robusta,410260140,2001,21280022.4,Africa
-Country 27,Robusta/Arabica,359880000,2001,13440000.0,Africa
-Country 28,Arabica,417242040,2001,10301760.0,North America
-Country 30,Arabica,4536540000,2001,142531200.0,Africa
-Country 31,Robusta,1123140,2001,20160.0,Africa
-Country 32,Robusta,9970800,2001,67200.0,Africa
-Country 33,Arabica/Robusta,590880000,2001,20160000.0,North America
-Country 34,Robusta,86730000,2001,3360000.0,Africa
-Country 35,Robusta,9203040,2001,280022.4,South America
-Country 36,Arabica,471850680,2001,13440000.0,North America
-Country 37,Robusta/Arabica,2093460000,2001,71702400.0,Asia
-Country 38,Arabica,18688020,2001,672000.0,North America
-Country 39,Arabica,95190000,2001,3360000.0,Africa
-Country 40,Robusta,157980000,2001,0.0,Asia
-Country 41,Robusta,8640000,2001,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2001,100800000.0,North America
-Country 44,Arabica,299700300,2001,11916105.6,North America
-Country 45,Robusta,70740000,2001,2688000.0,Africa
-Country 46,Arabica,122916960,2001,4502400.0,North America
-Country 47,Robusta,10080000,2001,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2001,2016000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2001,33600000.0,Asia
-Country 50,Robusta,2167620,2001,134400.0,Africa
-Country 51,Robusta,21090000,2001,940800.0,North America
-Country 52,Robusta/Arabica,284816400,2001,9475200.0,Africa
-Country 53,Arabica,2386067999,2001,82929504.0,South America
-Country 54,Robusta/Arabica,1920928320,2001,30970128.0,Asia
-Country 55,Arabica,121620000,2001,0.0,Asia
 Country 1,Robusta/Arabica,46500000,2002,1344000.0,Africa
-Country 2,Arabica,75180000,2002,2520000.0,South America
-Country 3,Arabica/Robusta,27824700000,2002,924000000.0,South America
-Country 4,Arabica/Robusta,3412020,2002,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,2002,10080000.0,South America
-Country 6,Robusta/Arabica,4920480000,2002,119548800.0,Asia
-Country 7,Robusta,588705960,2002,14582400.0,Africa
-Country 8,Arabica,2340000,2002,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2002,134400.0,Oceania
-Country 10,Arabica,35100000,2002,1344000.0,South America
-Country 11,Arabica,402000000,2002,14784000.0,South America
-Country 12,Arabica,2139960,2002,22377.6,Africa
-Country 13,Arabica,294000,2002,0.0,Asia
-Country 14,Arabica,8595960,2002,268800.0,Africa
-Country 15,Robusta,5360040,2002,201600.0,Africa
-Country 16,Arabica,384006000,2002,15052800.0,North America
-Country 17,Arabica/Robusta,642823380,2002,22861305.6,North America
-Country 18,Arabica,600600000,2002,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2002,55708800.0,Asia
-Country 20,Arabica/Robusta,76425060,2002,1008000.0,Africa
-Country 22,Robusta/Arabica,143450940,2002,4636800.0,Africa
-Country 23,Robusta,24794400,2002,254486.4,Africa
-Country 24,Arabica,2536776384,2002,84134400.0,South America
-Country 25,Arabica,665335200,2002,25200000.0,North America
-Country 26,Robusta,410260140,2002,21280022.4,Africa
-Country 27,Robusta/Arabica,359880000,2002,13440000.0,Africa
-Country 28,Arabica,417242040,2002,10301760.0,North America
-Country 30,Arabica,4536540000,2002,150124800.0,Africa
-Country 31,Robusta,1123140,2002,20160.0,Africa
-Country 32,Robusta,9970800,2002,67200.0,Africa
-Country 33,Arabica/Robusta,590880000,2002,20160000.0,North America
-Country 34,Robusta,86730000,2002,3360000.0,Africa
-Country 35,Robusta,9203040,2002,292320.0,South America
-Country 36,Arabica,471850680,2002,13440000.0,North America
-Country 37,Robusta/Arabica,2093460000,2002,76137600.0,Asia
-Country 38,Arabica,18688020,2002,604800.0,North America
-Country 39,Arabica,95190000,2002,3360000.0,Africa
-Country 40,Robusta,157980000,2002,10617600.0,Asia
-Country 41,Robusta,8640000,2002,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2002,100800000.0,North America
-Country 44,Arabica,299700300,2002,12070732.8,North America
-Country 45,Robusta,70740000,2002,2688000.0,Africa
-Country 46,Arabica,122916960,2002,4502400.0,North America
-Country 47,Robusta,10080000,2002,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2002,2016000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2002,33600000.0,Asia
-Country 50,Robusta,2167620,2002,134400.0,Africa
-Country 51,Robusta,21090000,2002,940800.0,North America
-Country 52,Robusta/Arabica,284816400,2002,9408000.0,Africa
-Country 53,Arabica,2386067999,2002,86437344.0,South America
-Country 54,Robusta/Arabica,1920928320,2002,34866182.4,Asia
-Country 55,Arabica,121620000,2002,0.0,Asia
 Country 1,Robusta/Arabica,46500000,2003,1008000.0,Africa
-Country 2,Arabica,75180000,2003,2587200.0,South America
-Country 3,Arabica/Robusta,27824700000,2003,954240000.0,South America
-Country 4,Arabica/Robusta,3412020,2003,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,2003,10080000.0,South America
-Country 6,Robusta/Arabica,4920480000,2003,123177600.0,Asia
-Country 7,Robusta,588705960,2003,22377600.0,Africa
-Country 8,Arabica,2340000,2003,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2003,134400.0,Oceania
-Country 10,Arabica,35100000,2003,1344000.0,South America
-Country 11,Arabica,402000000,2003,14784000.0,South America
-Country 12,Arabica,2139960,2003,22377.6,Africa
-Country 13,Arabica,294000,2003,0.0,Asia
-Country 14,Arabica,8595960,2003,268800.0,Africa
-Country 15,Robusta,5360040,2003,201600.0,Africa
-Country 16,Arabica,384006000,2003,15052800.0,North America
-Country 17,Arabica/Robusta,642823380,2003,22848000.0,North America
-Country 18,Arabica,600600000,2003,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2003,61622400.0,Asia
-Country 20,Arabica/Robusta,76425060,2003,1814400.0,Africa
-Country 22,Robusta/Arabica,143450940,2003,4636800.0,Africa
-Country 23,Robusta,24794400,2003,254486.4,Africa
-Country 24,Arabica,2536776384,2003,83126400.0,South America
-Country 25,Arabica,665335200,2003,25200000.0,North America
-Country 26,Robusta,410260140,2003,21280022.4,Africa
-Country 27,Robusta/Arabica,359880000,2003,13440000.0,Africa
-Country 28,Arabica,417242040,2003,10301760.0,North America
-Country 30,Arabica,4536540000,2003,158121600.0,Africa
-Country 31,Robusta,1123140,2003,20160.0,Africa
-Country 32,Robusta,9970800,2003,67200.0,Africa
-Country 33,Arabica/Robusta,590880000,2003,20160000.0,North America
-Country 34,Robusta,86730000,2003,3360000.0,Africa
-Country 35,Robusta,9203040,2003,319200.0,South America
-Country 36,Arabica,471850680,2003,13440000.0,North America
-Country 37,Robusta/Arabica,2093460000,2003,78422400.0,Asia
-Country 38,Arabica,18688020,2003,604800.0,North America
-Country 39,Arabica,95190000,2003,3360000.0,Africa
-Country 40,Robusta,157980000,2003,6921600.0,Asia
-Country 41,Robusta,8640000,2003,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2003,100800000.0,North America
-Country 44,Arabica,299700300,2003,12224688.0,North America
-Country 45,Robusta,70740000,2003,2688000.0,Africa
-Country 46,Arabica,122916960,2003,4502400.0,North America
-Country 47,Robusta,10080000,2003,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2003,2016000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2003,33600000.0,Asia
-Country 50,Robusta,2167620,2003,134400.0,Africa
-Country 51,Robusta,21090000,2003,940800.0,North America
-Country 52,Robusta/Arabica,284816400,2003,8803200.0,Africa
-Country 53,Arabica,2386067999,2003,90093696.0,South America
-Country 54,Robusta/Arabica,1920928320,2003,40780051.2,Asia
-Country 55,Arabica,121620000,2003,9811200.0,Asia
 Country 1,Robusta/Arabica,46500000,2004,1008000.0,Africa
-Country 2,Arabica,75180000,2004,3024000.0,South America
-Country 3,Arabica/Robusta,27824700000,2004,1004371200.0,South America
-Country 4,Arabica/Robusta,3412020,2004,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,2004,10080000.0,South America
-Country 6,Robusta/Arabica,4920480000,2004,134400000.0,Asia
-Country 7,Robusta,588705960,2004,31382400.0,Africa
-Country 8,Arabica,2340000,2004,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2004,134400.0,Oceania
-Country 10,Arabica,35100000,2004,1344000.0,South America
-Country 11,Arabica,402000000,2004,14784000.0,South America
-Country 12,Arabica,2139960,2004,67200.0,Africa
-Country 13,Arabica,294000,2004,0.0,Asia
-Country 14,Arabica,8595960,2004,268800.0,Africa
-Country 15,Robusta,5360040,2004,201600.0,Africa
-Country 16,Arabica,384006000,2004,15052800.0,North America
-Country 17,Arabica/Robusta,642823380,2004,25401465.6,North America
-Country 18,Arabica,600600000,2004,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2004,68544000.0,Asia
-Country 20,Arabica/Robusta,76425060,2004,2486400.0,Africa
-Country 22,Robusta/Arabica,143450940,2004,4636800.0,Africa
-Country 23,Robusta,24794400,2004,201600.0,Africa
-Country 24,Arabica,2536776384,2004,82185600.0,South America
-Country 25,Arabica,665335200,2004,25200000.0,North America
-Country 26,Robusta,410260140,2004,21280022.4,Africa
-Country 27,Robusta/Arabica,359880000,2004,13440000.0,Africa
-Country 28,Arabica,417242040,2004,11592000.0,North America
-Country 30,Arabica,4536540000,2004,166521600.0,Africa
-Country 31,Robusta,1123140,2004,20160.0,Africa
-Country 32,Robusta,9970800,2004,106848.0,Africa
-Country 33,Arabica/Robusta,590880000,2004,20160000.0,North America
-Country 34,Robusta,86730000,2004,3360000.0,Africa
-Country 35,Robusta,9203040,2004,369600.0,South America
-Country 36,Arabica,471850680,2004,15456000.0,North America
-Country 37,Robusta/Arabica,2093460000,2004,80774400.0,Asia
-Country 38,Arabica,18688020,2004,604800.0,North America
-Country 39,Arabica,95190000,2004,3360000.0,Africa
-Country 40,Robusta,157980000,2004,9072000.0,Asia
-Country 41,Robusta,8640000,2004,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2004,100800000.0,North America
-Country 44,Arabica,299700300,2004,12383481.6,North America
-Country 45,Robusta,70740000,2004,2688000.0,Africa
-Country 46,Arabica,122916960,2004,4502400.0,North America
-Country 47,Robusta,10080000,2004,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2004,2016000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2004,33600000.0,Asia
-Country 50,Robusta,2167620,2004,134400.0,Africa
-Country 51,Robusta,21090000,2004,940800.0,North America
-Country 52,Robusta/Arabica,284816400,2004,9408000.0,Africa
-Country 53,Arabica,2386067999,2004,93904608.0,South America
-Country 54,Robusta/Arabica,1920928320,2004,46795123.2,Asia
-Country 55,Arabica,121620000,2004,9139200.0,Asia
 Country 1,Robusta/Arabica,46500000,2005,1008000.0,Africa
-Country 2,Arabica,75180000,2005,2755200.0,South America
-Country 3,Arabica/Robusta,27824700000,2005,1044153600.0,South America
-Country 4,Arabica/Robusta,3412020,2005,128083.2,Africa
-Country 5,Arabica/Robusta,381540000,2005,10080000.0,South America
-Country 6,Robusta/Arabica,4920480000,2005,168000000.0,Asia
-Country 7,Robusta,588705960,2005,31382400.0,Africa
-Country 8,Arabica,2340000,2005,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2005,134400.0,Oceania
-Country 10,Arabica,35100000,2005,1344000.0,South America
-Country 11,Arabica,402000000,2005,14784000.0,South America
-Country 12,Arabica,2139960,2005,67200.0,Africa
-Country 13,Arabica,294000,2005,0.0,Asia
-Country 14,Arabica,8595960,2005,268800.0,Africa
-Country 15,Robusta,5360040,2005,201600.0,Africa
-Country 16,Arabica,384006000,2005,15052800.0,North America
-Country 17,Arabica/Robusta,642823380,2005,25401465.6,North America
-Country 18,Arabica,600600000,2005,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2005,69888000.0,Asia
-Country 20,Arabica/Robusta,76425060,2005,3158400.0,Africa
-Country 22,Robusta/Arabica,143450940,2005,4636800.0,Africa
-Country 23,Robusta,24794400,2005,201600.0,Africa
-Country 24,Arabica,2536776384,2005,81244800.0,South America
-Country 25,Arabica,665335200,2005,25200000.0,North America
-Country 26,Robusta,410260140,2005,21280022.4,Africa
-Country 27,Robusta/Arabica,359880000,2005,13440000.0,Africa
-Country 28,Arabica,417242040,2005,15059520.0,North America
-Country 30,Arabica,4536540000,2005,175324800.0,Africa
-Country 31,Robusta,1123140,2005,20160.0,Africa
-Country 32,Robusta,9970800,2005,106848.0,Africa
-Country 33,Arabica/Robusta,590880000,2005,20160000.0,North America
-Country 34,Robusta,86730000,2005,3360000.0,Africa
-Country 35,Robusta,9203040,2005,376320.0,South America
-Country 36,Arabica,471850680,2005,15456000.0,North America
-Country 37,Robusta/Arabica,2093460000,2005,83193600.0,Asia
-Country 38,Arabica,18688020,2005,604800.0,North America
-Country 39,Arabica,95190000,2005,3360000.0,Africa
-Country 40,Robusta,157980000,2005,9408000.0,Asia
-Country 41,Robusta,8640000,2005,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2005,115920000.0,North America
-Country 44,Arabica,299700300,2005,12547516.8,North America
-Country 45,Robusta,70740000,2005,2688000.0,Africa
-Country 46,Arabica,122916960,2005,4502400.0,North America
-Country 47,Robusta,10080000,2005,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2005,2016000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2005,33600000.0,Asia
-Country 50,Robusta,2167620,2005,134400.0,Africa
-Country 51,Robusta,21090000,2005,940800.0,North America
-Country 52,Robusta/Arabica,284816400,2005,10080000.0,Africa
-Country 53,Arabica,2386067999,2005,97876800.0,South America
-Country 54,Robusta/Arabica,1920928320,2005,53760000.0,Asia
-Country 55,Arabica,121620000,2005,9273600.0,Asia
 Country 1,Robusta/Arabica,46500000,2006,2016000.0,Africa
-Country 2,Arabica,75180000,2006,2822400.0,South America
-Country 3,Arabica/Robusta,27824700000,2006,1097443200.0,South America
-Country 4,Arabica/Robusta,3412020,2006,104832.0,Africa
-Country 5,Arabica/Robusta,381540000,2006,10080000.0,South America
-Country 6,Robusta/Arabica,4920480000,2006,190377600.0,Asia
-Country 7,Robusta,588705960,2006,31382400.0,Africa
-Country 8,Arabica,2340000,2006,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2006,134400.0,Oceania
-Country 10,Arabica,35100000,2006,1344000.0,South America
-Country 11,Arabica,402000000,2006,14784000.0,South America
-Country 12,Arabica,2139960,2006,67200.0,Africa
-Country 13,Arabica,294000,2006,0.0,Asia
-Country 14,Arabica,8595960,2006,268800.0,Africa
-Country 15,Robusta,5360040,2006,201600.0,Africa
-Country 16,Arabica,384006000,2006,15052800.0,North America
-Country 17,Arabica/Robusta,642823380,2006,25401465.6,North America
-Country 18,Arabica,600600000,2006,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2006,71232000.0,Asia
-Country 20,Arabica/Robusta,76425060,2006,3158400.0,Africa
-Country 22,Robusta/Arabica,143450940,2006,4636800.0,Africa
-Country 23,Robusta,24794400,2006,201600.0,Africa
-Country 24,Arabica,2536776384,2006,80279337.6,South America
-Country 25,Arabica,665335200,2006,25200000.0,North America
-Country 26,Robusta,410260140,2006,21280022.4,Africa
-Country 27,Robusta/Arabica,359880000,2006,13440000.0,Africa
-Country 28,Arabica,417242040,2006,17055360.0,North America
-Country 30,Arabica,4536540000,2006,184665600.0,Africa
-Country 31,Robusta,1123140,2006,20160.0,Africa
-Country 32,Robusta,9970800,2006,67200.0,Africa
-Country 33,Arabica/Robusta,590880000,2006,20160000.0,North America
-Country 34,Robusta,86730000,2006,3360000.0,Africa
-Country 35,Robusta,9203040,2006,384182.4,South America
-Country 36,Arabica,471850680,2006,15456000.0,North America
-Country 37,Robusta/Arabica,2093460000,2006,85680000.0,Asia
-Country 38,Arabica,18688020,2006,604800.0,North America
-Country 39,Arabica,95190000,2006,3360000.0,Africa
-Country 40,Robusta,157980000,2006,9408000.0,Asia
-Country 41,Robusta,8640000,2006,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2006,134400000.0,North America
-Country 44,Arabica,299700300,2006,12713232.0,North America
-Country 45,Robusta,70740000,2006,2688000.0,Africa
-Country 46,Arabica,122916960,2006,4502400.0,North America
-Country 47,Robusta,10080000,2006,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2006,2016000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2006,33600000.0,Asia
-Country 50,Robusta,2167620,2006,134400.0,Africa
-Country 51,Robusta,21090000,2006,739200.0,North America
-Country 52,Robusta/Arabica,284816400,2006,11760000.0,Africa
-Country 53,Arabica,2386067999,2006,102016992.0,South America
-Country 54,Robusta/Arabica,1920928320,2006,61622400.0,Asia
-Country 55,Arabica,121620000,2006,9273600.0,Asia
 Country 1,Robusta/Arabica,46500000,2007,2016000.0,Africa
-Country 2,Arabica,75180000,2007,2923200.0,South America
-Country 3,Arabica/Robusta,27824700000,2007,1149792000.0,South America
-Country 4,Arabica/Robusta,3412020,2007,91190.4,Africa
-Country 5,Arabica/Robusta,381540000,2007,10080000.0,South America
-Country 6,Robusta/Arabica,4920480000,2007,223977600.0,Asia
-Country 7,Robusta,588705960,2007,31382400.0,Africa
-Country 8,Arabica,2340000,2007,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2007,134400.0,Oceania
-Country 10,Arabica,35100000,2007,1344000.0,South America
-Country 11,Arabica,402000000,2007,14784000.0,South America
-Country 12,Arabica,2139960,2007,67200.0,Africa
-Country 13,Arabica,294000,2007,0.0,Asia
-Country 14,Arabica,8595960,2007,268800.0,Africa
-Country 15,Robusta,5360040,2007,201600.0,Africa
-Country 16,Arabica,384006000,2007,15052800.0,North America
-Country 17,Arabica/Robusta,642823380,2007,25401600.0,North America
-Country 18,Arabica,600600000,2007,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2007,71232000.0,Asia
-Country 20,Arabica/Robusta,76425060,2007,3158400.0,Africa
-Country 22,Robusta/Arabica,143450940,2007,4636800.0,Africa
-Country 23,Robusta,24794400,2007,223977.6,Africa
-Country 24,Arabica,2536776384,2007,86078025.6,South America
-Country 25,Arabica,665335200,2007,25200000.0,North America
-Country 26,Robusta,410260140,2007,21302400.0,Africa
-Country 27,Robusta/Arabica,359880000,2007,13440000.0,Africa
-Country 28,Arabica,417242040,2007,16833600.0,North America
-Country 30,Arabica,4536540000,2007,194476800.0,Africa
-Country 31,Robusta,1123140,2007,20160.0,Africa
-Country 32,Robusta,9970800,2007,134400.0,Africa
-Country 33,Arabica/Robusta,590880000,2007,20160000.0,North America
-Country 34,Robusta,86730000,2007,3360000.0,Africa
-Country 35,Robusta,9203040,2007,470400.0,South America
-Country 36,Arabica,471850680,2007,16464000.0,North America
-Country 37,Robusta/Arabica,2093460000,2007,90720000.0,Asia
-Country 38,Arabica,18688020,2007,604800.0,North America
-Country 39,Arabica,95190000,2007,3360000.0,Africa
-Country 40,Robusta,157980000,2007,9408000.0,Asia
-Country 41,Robusta,8640000,2007,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2007,147840000.0,North America
-Country 44,Arabica,299700300,2007,12878544.0,North America
-Country 45,Robusta,70740000,2007,2688000.0,Africa
-Country 46,Arabica,122916960,2007,4502400.0,North America
-Country 47,Robusta,10080000,2007,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2007,2016000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2007,36960000.0,Asia
-Country 50,Robusta,2167620,2007,134400.0,Africa
-Country 51,Robusta,21090000,2007,739200.0,North America
-Country 52,Robusta/Arabica,284816400,2007,12112800.0,Africa
-Country 53,Arabica,2386067999,2007,106332576.0,South America
-Country 54,Robusta/Arabica,1920928320,2007,63033600.0,Asia
-Country 55,Arabica,121620000,2007,8736000.0,Asia
 Country 1,Robusta/Arabica,46500000,2008,2016000.0,Africa
-Country 2,Arabica,75180000,2008,3024000.0,South America
-Country 3,Arabica/Robusta,27824700000,2008,1186752000.0,South America
-Country 4,Arabica/Robusta,3412020,2008,96432.0,Africa
-Country 5,Arabica/Robusta,381540000,2008,10080000.0,South America
-Country 6,Robusta/Arabica,4920480000,2008,223977600.0,Asia
-Country 7,Robusta,588705960,2008,31382400.0,Africa
-Country 8,Arabica,2340000,2008,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2008,134400.0,Oceania
-Country 10,Arabica,35100000,2008,1344000.0,South America
-Country 11,Arabica,402000000,2008,16800000.0,South America
-Country 12,Arabica,2139960,2008,67200.0,Africa
-Country 13,Arabica,294000,2008,0.0,Asia
-Country 14,Arabica,8595960,2008,268800.0,Africa
-Country 15,Robusta,5360040,2008,201600.0,Africa
-Country 16,Arabica,384006000,2008,14784000.0,North America
-Country 17,Arabica/Robusta,642823380,2008,25401600.0,North America
-Country 18,Arabica,600600000,2008,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2008,115584000.0,Asia
-Country 20,Arabica/Robusta,76425060,2008,3158400.0,Africa
-Country 22,Robusta/Arabica,143450940,2008,4636800.0,Africa
-Country 23,Robusta,24794400,2008,336000.0,Africa
-Country 24,Arabica,2536776384,2008,86721600.0,South America
-Country 25,Arabica,665335200,2008,18000124.8,North America
-Country 26,Robusta,410260140,2008,21302400.0,Africa
-Country 27,Robusta/Arabica,359880000,2008,13440000.0,Africa
-Country 28,Arabica,417242040,2008,16416960.0,North America
-Country 30,Arabica,4536540000,2008,204825600.0,Africa
-Country 31,Robusta,1123140,2008,18480.0,Africa
-Country 32,Robusta,9970800,2008,134400.0,Africa
-Country 33,Arabica/Robusta,590880000,2008,22512000.0,North America
-Country 34,Robusta,86730000,2008,3360000.0,Africa
-Country 35,Robusta,9203040,2008,568982.4,South America
-Country 36,Arabica,471850680,2008,18031977.6,North America
-Country 37,Robusta/Arabica,2093460000,2008,85680000.0,Asia
-Country 38,Arabica,18688020,2008,604800.0,North America
-Country 39,Arabica,95190000,2008,3360000.0,Africa
-Country 40,Robusta,157980000,2008,10080000.0,Asia
-Country 41,Robusta,8640000,2008,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2008,147840000.0,North America
-Country 44,Arabica,299700300,2008,13046678.4,North America
-Country 45,Robusta,70740000,2008,2688000.0,Africa
-Country 46,Arabica,122916960,2008,4502400.0,North America
-Country 47,Robusta,10080000,2008,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2008,2016000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2008,40320000.0,Asia
-Country 50,Robusta,2167620,2008,134400.0,Africa
-Country 51,Robusta,21090000,2008,739200.0,North America
-Country 52,Robusta/Arabica,284816400,2008,12432000.0,Africa
-Country 53,Arabica,2386067999,2008,110830272.0,South America
-Country 54,Robusta/Arabica,1920928320,2008,68611200.0,Asia
-Country 55,Arabica,121620000,2008,8736000.0,Asia
 Country 1,Robusta/Arabica,46500000,2009,2016000.0,Africa
-Country 2,Arabica,75180000,2009,3091200.0,South America
-Country 3,Arabica/Robusta,27824700000,2009,1235808000.0,South America
-Country 4,Arabica/Robusta,3412020,2009,94012.8,Africa
-Country 5,Arabica/Robusta,381540000,2009,10080000.0,South America
-Country 6,Robusta/Arabica,4920480000,2009,223977600.0,Asia
-Country 7,Robusta,588705960,2009,31382400.0,Africa
-Country 8,Arabica,2340000,2009,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2009,134400.0,Oceania
-Country 10,Arabica,35100000,2009,1344000.0,South America
-Country 11,Arabica,402000000,2009,16800000.0,South America
-Country 12,Arabica,2139960,2009,67200.0,Africa
-Country 13,Arabica,294000,2009,0.0,Asia
-Country 14,Arabica,8595960,2009,268800.0,Africa
-Country 15,Robusta,5360040,2009,201600.0,Africa
-Country 16,Arabica,384006000,2009,14784000.0,North America
-Country 17,Arabica/Robusta,642823380,2009,25401600.0,North America
-Country 18,Arabica,600600000,2009,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2009,122304000.0,Asia
-Country 20,Arabica/Robusta,76425060,2009,3158400.0,Africa
-Country 22,Robusta/Arabica,143450940,2009,4636800.0,Africa
-Country 23,Robusta,24794400,2009,559977.6,Africa
-Country 24,Arabica,2536776384,2009,85644988.8,South America
-Country 25,Arabica,665335200,2009,19853635.2,North America
-Country 26,Robusta,410260140,2009,21302400.0,Africa
-Country 27,Robusta/Arabica,359880000,2009,13440000.0,Africa
-Country 28,Arabica,417242040,2009,18029760.0,North America
-Country 30,Arabica,4536540000,2009,208924800.0,Africa
-Country 31,Robusta,1123140,2009,16800.0,Africa
-Country 32,Robusta,9970800,2009,134400.0,Africa
-Country 33,Arabica/Robusta,590880000,2009,21504000.0,North America
-Country 34,Robusta,86730000,2009,3360000.0,Africa
-Country 35,Robusta,9203040,2009,553257.6,South America
-Country 36,Arabica,471850680,2009,20608022.4,North America
-Country 37,Robusta/Arabica,2093460000,2009,89040000.0,Asia
-Country 38,Arabica,18688020,2009,604800.0,North America
-Country 39,Arabica,95190000,2009,3360000.0,Africa
-Country 40,Robusta,157980000,2009,10080000.0,Asia
-Country 41,Robusta,8640000,2009,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2009,147840000.0,North America
-Country 44,Arabica,299700300,2009,13212998.4,North America
-Country 45,Robusta,70740000,2009,2688000.0,Africa
-Country 46,Arabica,122916960,2009,4502400.0,North America
-Country 47,Robusta,10080000,2009,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2009,2016000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2009,47040000.0,Asia
-Country 50,Robusta,2167620,2009,134400.0,Africa
-Country 51,Robusta,21090000,2009,739200.0,North America
-Country 52,Robusta/Arabica,284816400,2009,12680640.0,Africa
-Country 53,Arabica,2386067999,2009,110880000.0,South America
-Country 54,Robusta/Arabica,1920928320,2009,81177600.0,Asia
-Country 55,Arabica,121620000,2009,8736000.0,Asia
 Country 1,Robusta/Arabica,46500000,2010,2016000.0,Africa
-Country 2,Arabica,75180000,2010,3192000.0,South America
-Country 3,Arabica/Robusta,27824700000,2010,1285670400.0,South America
-Country 4,Arabica/Robusta,3412020,2010,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,2010,10080000.0,South America
-Country 6,Robusta/Arabica,4920480000,2010,223977600.0,Asia
-Country 7,Robusta,588705960,2010,31382400.0,Africa
-Country 8,Arabica,2340000,2010,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2010,96096.0,Oceania
-Country 10,Arabica,35100000,2010,1344000.0,South America
-Country 11,Arabica,402000000,2010,16800000.0,South America
-Country 12,Arabica,2139960,2010,67200.0,Africa
-Country 13,Arabica,294000,2010,32928.0,Asia
-Country 14,Arabica,8595960,2010,268800.0,Africa
-Country 15,Robusta,5360040,2010,201600.0,Africa
-Country 16,Arabica,384006000,2010,14784000.0,North America
-Country 17,Arabica/Robusta,642823380,2010,25401600.0,North America
-Country 18,Arabica,600600000,2010,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2010,142800000.0,Asia
-Country 20,Arabica/Robusta,76425060,2010,3158400.0,Africa
-Country 22,Robusta/Arabica,143450940,2010,4591977.6,Africa
-Country 23,Robusta,24794400,2010,672000.0,Africa
-Country 24,Arabica,2536776384,2010,88100812.8,South America
-Country 25,Arabica,665335200,2010,27365251.2,North America
-Country 26,Robusta,410260140,2010,21302400.0,Africa
-Country 27,Robusta/Arabica,359880000,2010,13440000.0,Africa
-Country 28,Arabica,417242040,2010,18547200.0,North America
-Country 30,Arabica,4536540000,2010,213091200.0,Africa
-Country 31,Robusta,1123140,2010,63638.4,Africa
-Country 32,Robusta,9970800,2010,134400.0,Africa
-Country 33,Arabica/Robusta,590880000,2010,22848000.0,North America
-Country 34,Robusta,86730000,2010,3360000.0,Africa
-Country 35,Robusta,9203040,2010,571200.0,South America
-Country 36,Arabica,471850680,2010,22512000.0,North America
-Country 37,Robusta/Arabica,2093460000,2010,89040000.0,Asia
-Country 38,Arabica,18688020,2010,604800.0,North America
-Country 39,Arabica,95190000,2010,3360000.0,Africa
-Country 40,Robusta,157980000,2010,10080000.0,Asia
-Country 41,Robusta,8640000,2010,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2010,158188800.0,North America
-Country 44,Arabica,299700300,2010,13624464.0,North America
-Country 45,Robusta,70740000,2010,2688000.0,Africa
-Country 46,Arabica,122916960,2010,4502400.0,North America
-Country 47,Robusta,10080000,2010,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2010,2352000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2010,52080000.0,Asia
-Country 50,Robusta,2167620,2010,134400.0,Africa
-Country 51,Robusta,21090000,2010,672000.0,North America
-Country 52,Robusta/Arabica,284816400,2010,13708800.0,Africa
-Country 53,Arabica,2386067999,2010,110880000.0,South America
-Country 54,Robusta/Arabica,1920928320,2010,106377600.0,Asia
-Country 55,Arabica,121620000,2010,8736000.0,Asia
 Country 1,Robusta/Arabica,46500000,2011,2016000.0,Africa
-Country 2,Arabica,75180000,2011,3292800.0,South America
-Country 3,Arabica/Robusta,27824700000,2011,1325184000.0,South America
-Country 4,Arabica/Robusta,3412020,2011,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,2011,10080000.0,South America
-Country 6,Robusta/Arabica,4920480000,2011,246422400.0,Asia
-Country 7,Robusta,588705960,2011,30240000.0,Africa
-Country 8,Arabica,2340000,2011,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2011,83059.2,Oceania
-Country 10,Arabica,35100000,2011,1344000.0,South America
-Country 11,Arabica,402000000,2011,16800000.0,South America
-Country 12,Arabica,2139960,2011,67200.0,Africa
-Country 13,Arabica,294000,2011,32928.0,Asia
-Country 14,Arabica,8595960,2011,268800.0,Africa
-Country 15,Robusta,5360040,2011,201600.0,Africa
-Country 16,Arabica,384006000,2011,14784000.0,North America
-Country 17,Arabica/Robusta,642823380,2011,25401600.0,North America
-Country 18,Arabica,600600000,2011,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2011,146160000.0,Asia
-Country 20,Arabica/Robusta,76425060,2011,3961440.0,Africa
-Country 22,Robusta/Arabica,143450940,2011,4705142.4,Africa
-Country 23,Robusta,24794400,2011,895977.6,Africa
-Country 24,Arabica,2536776384,2011,96436368.0,South America
-Country 25,Arabica,665335200,2011,25595673.6,North America
-Country 26,Robusta,410260140,2011,21302400.0,Africa
-Country 27,Robusta/Arabica,359880000,2011,13440000.0,Africa
-Country 28,Arabica,417242040,2011,18372480.0,North America
-Country 30,Arabica,4536540000,2011,217392000.0,Africa
-Country 31,Robusta,1123140,2011,69350.4,Africa
-Country 32,Robusta,9970800,2011,134400.0,Africa
-Country 33,Arabica/Robusta,590880000,2011,23520000.0,North America
-Country 34,Robusta,86730000,2011,3360000.0,Africa
-Country 35,Robusta,9203040,2011,577920.0,South America
-Country 36,Arabica,471850680,2011,22848000.0,North America
-Country 37,Robusta/Arabica,2093460000,2011,89040000.0,Asia
-Country 38,Arabica,18688020,2011,604800.0,North America
-Country 39,Arabica,95190000,2011,3360000.0,Africa
-Country 40,Robusta,157980000,2011,10080000.0,Asia
-Country 41,Robusta,8640000,2011,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2011,158188800.0,North America
-Country 44,Arabica,299700300,2011,13793539.2,North America
-Country 45,Robusta,70740000,2011,2688000.0,Africa
-Country 46,Arabica,122916960,2011,4502400.0,North America
-Country 47,Robusta,10080000,2011,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2011,2352000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2011,73920000.0,Asia
-Country 50,Robusta,2167620,2011,14112.0,Africa
-Country 51,Robusta,21090000,2011,672000.0,North America
-Country 52,Robusta/Arabica,284816400,2011,14112000.0,Africa
-Country 53,Arabica,2386067999,2011,110880000.0,South America
-Country 54,Robusta/Arabica,1920928320,2011,110880000.0,Asia
-Country 55,Arabica,121620000,2011,8736000.0,Asia
 Country 1,Robusta/Arabica,46500000,2012,2016000.0,Africa
-Country 2,Arabica,75180000,2012,3393600.0,South America
-Country 3,Arabica/Robusta,27824700000,2012,1366176000.0,South America
-Country 4,Arabica/Robusta,3412020,2012,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,2012,10080000.0,South America
-Country 6,Robusta/Arabica,4920480000,2012,262080000.0,Asia
-Country 7,Robusta,588705960,2012,28896000.0,Africa
-Country 8,Arabica,2340000,2012,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2012,114979.2,Oceania
-Country 10,Arabica,35100000,2012,1344000.0,South America
-Country 11,Arabica,402000000,2012,16800000.0,South America
-Country 12,Arabica,2139960,2012,67200.0,Africa
-Country 13,Arabica,294000,2012,32928.0,Asia
-Country 14,Arabica,8595960,2012,268800.0,Africa
-Country 15,Robusta,5360040,2012,201600.0,Africa
-Country 16,Arabica,384006000,2012,14784000.0,North America
-Country 17,Arabica/Robusta,642823380,2012,25401600.0,North America
-Country 18,Arabica,600600000,2012,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2012,156240000.0,Asia
-Country 20,Arabica/Robusta,76425060,2012,4818240.0,Africa
-Country 22,Robusta/Arabica,143450940,2012,4820457.6,Africa
-Country 23,Robusta,24794400,2012,1120022.4,Africa
-Country 24,Arabica,2536776384,2012,101757062.4,South America
-Country 25,Arabica,665335200,2012,28432118.4,North America
-Country 26,Robusta,410260140,2012,21302400.0,Africa
-Country 27,Robusta/Arabica,359880000,2012,13440000.0,Africa
-Country 28,Arabica,417242040,2012,18587520.0,North America
-Country 30,Arabica,4536540000,2012,221692800.0,Africa
-Country 31,Robusta,1123140,2012,64982.4,Africa
-Country 32,Robusta,9970800,2012,134400.0,Africa
-Country 33,Arabica/Robusta,590880000,2012,24192000.0,North America
-Country 34,Robusta,86730000,2012,3360000.0,Africa
-Country 35,Robusta,9203040,2012,584640.0,South America
-Country 36,Arabica,471850680,2012,23184000.0,North America
-Country 37,Robusta/Arabica,2093460000,2012,92400000.0,Asia
-Country 38,Arabica,18688020,2012,604800.0,North America
-Country 39,Arabica,95190000,2012,3360000.0,Africa
-Country 40,Robusta,157980000,2012,10080000.0,Asia
-Country 41,Robusta,8640000,2012,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2012,158188800.0,North America
-Country 44,Arabica,299700300,2012,13968460.8,North America
-Country 45,Robusta,70740000,2012,2688000.0,Africa
-Country 46,Arabica,122916960,2012,4502400.0,North America
-Country 47,Robusta,10080000,2012,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2012,2352000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2012,75936000.0,Asia
-Country 50,Robusta,2167620,2012,16262.4,Africa
-Country 51,Robusta,21090000,2012,672000.0,North America
-Country 52,Robusta/Arabica,284816400,2012,14515200.0,Africa
-Country 53,Arabica,2386067999,2012,110880000.0,South America
-Country 54,Robusta/Arabica,1920928320,2012,122640000.0,Asia
-Country 55,Arabica,121620000,2012,8736000.0,Asia
 Country 1,Robusta/Arabica,46500000,2013,2016000.0,Africa
-Country 2,Arabica,75180000,2013,3494400.0,South America
-Country 3,Arabica/Robusta,27824700000,2013,1349712000.0,South America
-Country 4,Arabica/Robusta,3412020,2013,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,2013,10416000.0,South America
-Country 6,Robusta/Arabica,4920480000,2013,285600000.0,Asia
-Country 7,Robusta,588705960,2013,27552000.0,Africa
-Country 8,Arabica,2340000,2013,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2013,137020.8,Oceania
-Country 10,Arabica,35100000,2013,1344000.0,South America
-Country 11,Arabica,402000000,2013,16800000.0,South America
-Country 12,Arabica,2139960,2013,67200.0,Africa
-Country 13,Arabica,294000,2013,32928.0,Asia
-Country 14,Arabica,8595960,2013,268800.0,Africa
-Country 15,Robusta,5360040,2013,201600.0,Africa
-Country 16,Arabica,384006000,2013,14784000.0,North America
-Country 17,Arabica/Robusta,642823380,2013,25759977.6,North America
-Country 18,Arabica,600600000,2013,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2013,171360000.0,Asia
-Country 20,Arabica/Robusta,76425060,2013,4936982.4,Africa
-Country 22,Robusta/Arabica,143450940,2013,4938057.6,Africa
-Country 23,Robusta,24794400,2013,1344000.0,Africa
-Country 24,Arabica,2536776384,2013,108663744.0,South America
-Country 25,Arabica,665335200,2013,22516032.0,North America
-Country 26,Robusta,410260140,2013,21302400.0,Africa
-Country 27,Robusta/Arabica,359880000,2013,13440000.0,Africa
-Country 28,Arabica,417242040,2013,18480000.0,North America
-Country 30,Arabica,4536540000,2013,226128000.0,Africa
-Country 31,Robusta,1123140,2013,39177.6,Africa
-Country 32,Robusta,9970800,2013,134400.0,Africa
-Country 33,Arabica/Robusta,590880000,2013,24864000.0,North America
-Country 34,Robusta,86730000,2013,3360000.0,Africa
-Country 35,Robusta,9203040,2013,591360.0,South America
-Country 36,Arabica,471850680,2013,23520000.0,North America
-Country 37,Robusta/Arabica,2093460000,2013,94080000.0,Asia
-Country 38,Arabica,18688020,2013,604800.0,North America
-Country 39,Arabica,95190000,2013,3696000.0,Africa
-Country 40,Robusta,157980000,2013,10080000.0,Asia
-Country 41,Robusta,8640000,2013,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2013,155971200.0,North America
-Country 44,Arabica,299700300,2013,14082499.2,North America
-Country 45,Robusta,70740000,2013,2688000.0,Africa
-Country 46,Arabica,122916960,2013,4502400.0,North America
-Country 47,Robusta,10080000,2013,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2013,2352000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2013,80640000.0,Asia
-Country 50,Robusta,2167620,2013,15993.6,Africa
-Country 51,Robusta,21090000,2013,672000.0,North America
-Country 52,Robusta/Arabica,284816400,2013,14837760.0,Africa
-Country 53,Arabica,2386067999,2013,110880000.0,South America
-Country 54,Robusta/Arabica,1920928320,2013,134400000.0,Asia
-Country 55,Arabica,121620000,2013,8736000.0,Asia
 Country 1,Robusta/Arabica,46500000,2014,2016000.0,Africa
-Country 2,Arabica,75180000,2014,3595200.0,South America
-Country 3,Arabica/Robusta,27824700000,2014,1366377600.0,South America
-Country 4,Arabica/Robusta,3412020,2014,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,2014,10416000.0,South America
-Country 6,Robusta/Arabica,4920480000,2014,296822400.0,Asia
-Country 7,Robusta,588705960,2014,26208000.0,Africa
-Country 8,Arabica,2340000,2014,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2014,129292.8,Oceania
-Country 10,Arabica,35100000,2014,1344000.0,South America
-Country 11,Arabica,402000000,2014,16800000.0,South America
-Country 12,Arabica,2139960,2014,67200.0,Africa
-Country 13,Arabica,294000,2014,32928.0,Asia
-Country 14,Arabica,8595960,2014,268800.0,Africa
-Country 15,Robusta,5360040,2014,201600.0,Africa
-Country 16,Arabica,384006000,2014,14784000.0,North America
-Country 17,Arabica/Robusta,642823380,2014,26073600.0,North America
-Country 18,Arabica,600600000,2014,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2014,188160000.0,Asia
-Country 20,Arabica/Robusta,76425060,2014,5155382.4,Africa
-Country 22,Robusta/Arabica,143450940,2014,5061302.4,Africa
-Country 23,Robusta,24794400,2014,1344000.0,Africa
-Country 24,Arabica,2536776384,2014,111918307.2,South America
-Country 25,Arabica,665335200,2014,25585862.4,North America
-Country 26,Robusta,410260140,2014,21302400.0,Africa
-Country 27,Robusta/Arabica,359880000,2014,13440000.0,Africa
-Country 28,Arabica,417242040,2014,18816000.0,North America
-Country 30,Arabica,4536540000,2014,230697600.0,Africa
-Country 31,Robusta,1123140,2014,34742.4,Africa
-Country 32,Robusta,9970800,2014,134400.0,Africa
-Country 33,Arabica/Robusta,590880000,2014,25536000.0,North America
-Country 34,Robusta,86730000,2014,3360000.0,Africa
-Country 35,Robusta,9203040,2014,598080.0,South America
-Country 36,Arabica,471850680,2014,23856000.0,North America
-Country 37,Robusta/Arabica,2093460000,2014,96096000.0,Asia
-Country 38,Arabica,18688020,2014,604800.0,North America
-Country 39,Arabica,95190000,2014,3696000.0,Africa
-Country 40,Robusta,157980000,2014,10080000.0,Asia
-Country 41,Robusta,8640000,2014,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2014,157718400.0,North America
-Country 44,Arabica,299700300,2014,14229062.4,North America
-Country 45,Robusta,70740000,2014,2688000.0,Africa
-Country 46,Arabica,122916960,2014,4502400.0,North America
-Country 47,Robusta,10080000,2014,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2014,2352000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2014,84000000.0,Asia
-Country 50,Robusta,2167620,2014,13104.0,Africa
-Country 51,Robusta,21090000,2014,672000.0,North America
-Country 52,Robusta/Arabica,284816400,2014,15402240.0,Africa
-Country 53,Arabica,2386067999,2014,110880000.0,South America
-Country 54,Robusta/Arabica,1920928320,2014,147840000.0,Asia
-Country 55,Arabica,121620000,2014,8400000.0,Asia
 Country 1,Robusta/Arabica,46500000,2015,2016000.0,Africa
-Country 2,Arabica,75180000,2015,3696000.0,South America
-Country 3,Arabica/Robusta,27824700000,2015,1378137600.0,South America
-Country 4,Arabica/Robusta,3412020,2015,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,2015,10416000.0,South America
-Country 6,Robusta/Arabica,4920480000,2015,305760000.0,Asia
-Country 7,Robusta,588705960,2015,24864000.0,Africa
-Country 8,Arabica,2340000,2015,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2015,120960.0,Oceania
-Country 10,Arabica,35100000,2015,1344000.0,South America
-Country 11,Arabica,402000000,2015,16800000.0,South America
-Country 12,Arabica,2139960,2015,67200.0,Africa
-Country 13,Arabica,294000,2015,32928.0,Asia
-Country 14,Arabica,8595960,2015,268800.0,Africa
-Country 15,Robusta,5360040,2015,201600.0,Africa
-Country 16,Arabica,384006000,2015,14784000.0,North America
-Country 17,Arabica/Robusta,642823380,2015,26073600.0,North America
-Country 18,Arabica,600600000,2015,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2015,201600000.0,Asia
-Country 20,Arabica/Robusta,76425060,2015,6185760.0,Africa
-Country 22,Robusta/Arabica,143450940,2015,5107200.0,Africa
-Country 23,Robusta,24794400,2015,1344000.0,Africa
-Country 24,Arabica,2536776384,2015,115609065.6,South America
-Country 25,Arabica,665335200,2015,30160771.2,North America
-Country 26,Robusta,410260140,2015,21302400.0,Africa
-Country 27,Robusta/Arabica,359880000,2015,13440000.0,Africa
-Country 28,Arabica,417242040,2015,19152000.0,North America
-Country 30,Arabica,4536540000,2015,235267200.0,Africa
-Country 31,Robusta,1123140,2015,33600.0,Africa
-Country 32,Robusta,9970800,2015,134400.0,Africa
-Country 33,Arabica/Robusta,590880000,2015,26208000.0,North America
-Country 34,Robusta,86730000,2015,3360000.0,Africa
-Country 35,Robusta,9203040,2015,604800.0,South America
-Country 36,Arabica,471850680,2015,24528000.0,North America
-Country 37,Robusta/Arabica,2093460000,2015,97440000.0,Asia
-Country 38,Arabica,18688020,2015,604800.0,North America
-Country 39,Arabica,95190000,2015,4032000.0,Africa
-Country 40,Robusta,157980000,2015,10080000.0,Asia
-Country 41,Robusta,8640000,2015,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2015,156508800.0,North America
-Country 44,Arabica,299700300,2015,14377171.2,North America
-Country 45,Robusta,70740000,2015,2688000.0,Africa
-Country 46,Arabica,122916960,2015,4502400.0,North America
-Country 47,Robusta,10080000,2015,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2015,2352000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2015,87360000.0,Asia
-Country 50,Robusta,2167620,2015,14784.0,Africa
-Country 51,Robusta,21090000,2015,672000.0,North America
-Country 52,Robusta/Arabica,284816400,2015,15724800.0,Africa
-Country 53,Arabica,2386067999,2015,110880000.0,South America
-Country 54,Robusta/Arabica,1920928320,2015,154560000.0,Asia
-Country 55,Arabica,121620000,2015,7728000.0,Asia
 Country 1,Robusta/Arabica,46500000,2016,2016000.0,Africa
-Country 2,Arabica,75180000,2016,3830400.0,South America
-Country 3,Arabica/Robusta,27824700000,2016,1426320000.0,South America
-Country 4,Arabica/Robusta,3412020,2016,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,2016,10416000.0,South America
-Country 6,Robusta/Arabica,4920480000,2016,312480000.0,Asia
-Country 7,Robusta,588705960,2016,24192000.0,Africa
-Country 8,Arabica,2340000,2016,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2016,134400.0,Oceania
-Country 10,Arabica,35100000,2016,1344000.0,South America
-Country 11,Arabica,402000000,2016,16800000.0,South America
-Country 12,Arabica,2139960,2016,67200.0,Africa
-Country 13,Arabica,294000,2016,32928.0,Asia
-Country 14,Arabica,8595960,2016,268800.0,Africa
-Country 15,Robusta,5360040,2016,201600.0,Africa
-Country 16,Arabica,384006000,2016,14784000.0,North America
-Country 17,Arabica/Robusta,642823380,2016,26208000.0,North America
-Country 18,Arabica,600600000,2016,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2016,203616000.0,Asia
-Country 20,Arabica/Robusta,76425060,2016,6135360.0,Africa
-Country 22,Robusta/Arabica,143450940,2016,5174400.0,Africa
-Country 23,Robusta,24794400,2016,1344000.0,Africa
-Country 24,Arabica,2536776384,2016,116688862.08,South America
-Country 25,Arabica,665335200,2016,22139510.4,North America
-Country 26,Robusta,410260140,2016,21302400.0,Africa
-Country 27,Robusta/Arabica,359880000,2016,13440000.0,Africa
-Country 28,Arabica,417242040,2016,19622400.0,North America
-Country 30,Arabica,4536540000,2016,239971200.0,Africa
-Country 31,Robusta,1123140,2016,33600.0,Africa
-Country 32,Robusta,9970800,2016,134400.0,Africa
-Country 33,Arabica/Robusta,590880000,2016,26208000.0,North America
-Country 34,Robusta,86730000,2016,3360000.0,Africa
-Country 35,Robusta,9203040,2016,604800.0,South America
-Country 36,Arabica,471850680,2016,24864000.0,North America
-Country 37,Robusta/Arabica,2093460000,2016,96768000.0,Asia
-Country 38,Arabica,18688020,2016,604800.0,North America
-Country 39,Arabica,95190000,2016,4032000.0,Africa
-Country 40,Robusta,157980000,2016,10080000.0,Asia
-Country 41,Robusta,8640000,2016,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2016,158592000.0,North America
-Country 44,Arabica,299700300,2016,14564121.6,North America
-Country 45,Robusta,70740000,2016,2688000.0,Africa
-Country 46,Arabica,122916960,2016,4502400.0,North America
-Country 47,Robusta,10080000,2016,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2016,2352000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2016,90720000.0,Asia
-Country 50,Robusta,2167620,2016,17068.8,Africa
-Country 51,Robusta,21090000,2016,672000.0,North America
-Country 52,Robusta/Arabica,284816400,2016,16128000.0,Africa
-Country 53,Arabica,2386067999,2016,110880000.0,South America
-Country 54,Robusta/Arabica,1920928320,2016,161280000.0,Asia
-Country 55,Arabica,121620000,2016,6720000.0,Asia
 Country 1,Robusta/Arabica,46500000,2017,2016000.0,Africa
-Country 2,Arabica,75180000,2017,3931200.0,South America
-Country 3,Arabica/Robusta,27824700000,2017,1478198400.0,South America
-Country 4,Arabica/Robusta,3412020,2017,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,2017,10416000.0,South America
-Country 6,Robusta/Arabica,4920480000,2017,319200000.0,Asia
-Country 7,Robusta,588705960,2017,24528000.0,Africa
-Country 8,Arabica,2340000,2017,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2017,134400.0,Oceania
-Country 10,Arabica,35100000,2017,1344000.0,South America
-Country 11,Arabica,402000000,2017,16800000.0,South America
-Country 12,Arabica,2139960,2017,67200.0,Africa
-Country 13,Arabica,294000,2017,32928.0,Asia
-Country 14,Arabica,8595960,2017,268800.0,Africa
-Country 15,Robusta,5360040,2017,201600.0,Africa
-Country 16,Arabica,384006000,2017,14784000.0,North America
-Country 17,Arabica/Robusta,642823380,2017,26208000.0,North America
-Country 18,Arabica,600600000,2017,22848000.0,North America
-Country 19,Robusta/Arabica,2807280000,2017,213696000.0,Asia
-Country 20,Arabica/Robusta,76425060,2017,6160022.4,Africa
-Country 22,Robusta/Arabica,143450940,2017,5241600.0,Africa
-Country 23,Robusta,24794400,2017,1344000.0,Africa
-Country 24,Arabica,2536776384,2017,120507811.2,South America
-Country 25,Arabica,665335200,2017,23744044.8,North America
-Country 26,Robusta,410260140,2017,21302400.0,Africa
-Country 27,Robusta/Arabica,359880000,2017,13440000.0,Africa
-Country 28,Arabica,417242040,2017,20160000.0,North America
-Country 30,Arabica,4536540000,2017,244809600.0,Africa
-Country 31,Robusta,1123140,2017,33600.0,Africa
-Country 32,Robusta,9970800,2017,134400.0,Africa
-Country 33,Arabica/Robusta,590880000,2017,26544000.0,North America
-Country 34,Robusta,86730000,2017,3360000.0,Africa
-Country 35,Robusta,9203040,2017,604800.0,South America
-Country 36,Arabica,471850680,2017,25200000.0,North America
-Country 37,Robusta/Arabica,2093460000,2017,98784000.0,Asia
-Country 38,Arabica,18688020,2017,604800.0,North America
-Country 39,Arabica,95190000,2017,4368000.0,Africa
-Country 40,Robusta,157980000,2017,10416000.0,Asia
-Country 41,Robusta,8640000,2017,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2017,161280000.0,North America
-Country 44,Arabica,299700300,2017,14649600.0,North America
-Country 45,Robusta,70740000,2017,2688000.0,Africa
-Country 46,Arabica,122916960,2017,4502400.0,North America
-Country 47,Robusta,10080000,2017,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2017,2352000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2017,92400000.0,Asia
-Country 50,Robusta,2167620,2017,17068.8,Africa
-Country 51,Robusta,21090000,2017,672000.0,North America
-Country 52,Robusta/Arabica,284816400,2017,16450560.0,Africa
-Country 53,Arabica,2386067999,2017,107520000.0,South America
-Country 54,Robusta/Arabica,1920928320,2017,168000000.0,Asia
-Country 55,Arabica,121620000,2017,6048000.0,Asia
 Country 1,Robusta/Arabica,46500000,2018,2016000.0,Africa
-Country 2,Arabica,75180000,2018,4032000.0,South America
-Country 3,Arabica/Robusta,27824700000,2018,1491840000.0,South America
-Country 4,Arabica/Robusta,3412020,2018,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,2018,10416000.0,South America
-Country 6,Robusta/Arabica,4920480000,2018,322560000.0,Asia
-Country 7,Robusta,588705960,2018,25200000.0,Africa
-Country 8,Arabica,2340000,2018,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2018,134400.0,Oceania
-Country 10,Arabica,35100000,2018,1344000.0,South America
-Country 11,Arabica,402000000,2018,16800000.0,South America
-Country 12,Arabica,2139960,2018,67200.0,Africa
-Country 13,Arabica,294000,2018,32928.0,Asia
-Country 14,Arabica,8595960,2018,268800.0,Africa
-Country 15,Robusta,5360040,2018,201600.0,Africa
-Country 16,Arabica,384006000,2018,14784000.0,North America
-Country 17,Arabica/Robusta,642823380,2018,26208000.0,North America
-Country 18,Arabica,600600000,2018,23184000.0,North America
-Country 19,Robusta/Arabica,2807280000,2018,221760000.0,Asia
-Country 20,Arabica/Robusta,76425060,2018,6182400.0,Africa
-Country 22,Robusta/Arabica,143450940,2018,5241600.0,Africa
-Country 23,Robusta,24794400,2018,1344000.0,Africa
-Country 24,Arabica,2536776384,2018,120382752.0,South America
-Country 25,Arabica,665335200,2018,24528000.0,North America
-Country 26,Robusta,410260140,2018,21302400.0,Africa
-Country 27,Robusta/Arabica,359880000,2018,13440000.0,Africa
-Country 28,Arabica,417242040,2018,20160000.0,North America
-Country 30,Arabica,4536540000,2018,247632000.0,Africa
-Country 31,Robusta,1123140,2018,33600.0,Africa
-Country 32,Robusta,9970800,2018,134400.0,Africa
-Country 33,Arabica/Robusta,590880000,2018,26544000.0,North America
-Country 34,Robusta,86730000,2018,3360000.0,Africa
-Country 35,Robusta,9203040,2018,604800.0,South America
-Country 36,Arabica,471850680,2018,25200000.0,North America
-Country 37,Robusta/Arabica,2093460000,2018,99120000.0,Asia
-Country 38,Arabica,18688020,2018,604800.0,North America
-Country 39,Arabica,95190000,2018,4704000.0,Africa
-Country 40,Robusta,157980000,2018,10416000.0,Asia
-Country 41,Robusta,8640000,2018,336000.0,Africa
-Country 42,Arabica/Robusta,3189660000,2018,164640000.0,North America
-Country 44,Arabica,299700300,2018,14784000.0,North America
-Country 45,Robusta,70740000,2018,2688000.0,Africa
-Country 46,Arabica,122916960,2018,4502400.0,North America
-Country 47,Robusta,10080000,2018,336000.0,Africa
-Country 48,Robusta/Arabica,58300020,2018,2352000.0,Asia
-Country 49,Robusta/Arabica,1248600000,2018,94080000.0,Asia
-Country 50,Robusta,2167620,2018,17068.8,Africa
-Country 51,Robusta,21090000,2018,672000.0,North America
-Country 52,Robusta/Arabica,284816400,2018,16800000.0,Africa
-Country 53,Arabica,2386067999,2018,104160000.0,South America
-Country 54,Robusta/Arabica,1920928320,2018,174720000.0,Asia
-Country 55,Arabica,121620000,2018,4368000.0,Asia
 Country 1,Robusta/Arabica,46500000,2019,2016000.0,Africa
-Country 2,Arabica,75180000,2019,4099200.0,South America
-Country 3,Arabica/Robusta,27824700000,2019,1478400000.0,South America
-Country 4,Arabica/Robusta,3412020,2019,134400.0,Africa
-Country 5,Arabica/Robusta,381540000,2019,10012800.0,South America
-Country 6,Robusta/Arabica,4920480000,2019,322963200.0,Asia
-Country 7,Robusta,588705960,2019,25200000.0,Africa
-Country 8,Arabica,2340000,2019,67200.0,Africa
-Country 9,Arabica/Robusta,3608400,2019,134400.0,Oceania
+Country 10,Arabica,35100000,1990,1008000.0,South America
+Country 10,Arabica,35100000,1991,1008000.0,South America
+Country 10,Arabica,35100000,1992,1008000.0,South America
+Country 10,Arabica,35100000,1993,1344000.0,South America
+Country 10,Arabica,35100000,1994,1344000.0,South America
+Country 10,Arabica,35100000,1995,1344000.0,South America
+Country 10,Arabica,35100000,1996,1344000.0,South America
+Country 10,Arabica,35100000,1997,1344000.0,South America
+Country 10,Arabica,35100000,1998,1344000.0,South America
+Country 10,Arabica,35100000,1999,1344000.0,South America
+Country 10,Arabica,35100000,2000,1344000.0,South America
+Country 10,Arabica,35100000,2001,1344000.0,South America
+Country 10,Arabica,35100000,2002,1344000.0,South America
+Country 10,Arabica,35100000,2003,1344000.0,South America
+Country 10,Arabica,35100000,2004,1344000.0,South America
+Country 10,Arabica,35100000,2005,1344000.0,South America
+Country 10,Arabica,35100000,2006,1344000.0,South America
+Country 10,Arabica,35100000,2007,1344000.0,South America
+Country 10,Arabica,35100000,2008,1344000.0,South America
+Country 10,Arabica,35100000,2009,1344000.0,South America
+Country 10,Arabica,35100000,2010,1344000.0,South America
+Country 10,Arabica,35100000,2011,1344000.0,South America
+Country 10,Arabica,35100000,2012,1344000.0,South America
+Country 10,Arabica,35100000,2013,1344000.0,South America
+Country 10,Arabica,35100000,2014,1344000.0,South America
+Country 10,Arabica,35100000,2015,1344000.0,South America
+Country 10,Arabica,35100000,2016,1344000.0,South America
+Country 10,Arabica,35100000,2017,1344000.0,South America
+Country 10,Arabica,35100000,2018,1344000.0,South America
 Country 10,Arabica,35100000,2019,1344000.0,South America
+Country 11,Arabica,402000000,1990,12768000.0,South America
+Country 11,Arabica,402000000,1991,12768000.0,South America
+Country 11,Arabica,402000000,1992,13440000.0,South America
+Country 11,Arabica,402000000,1993,13440000.0,South America
+Country 11,Arabica,402000000,1994,13440000.0,South America
+Country 11,Arabica,402000000,1995,13440000.0,South America
+Country 11,Arabica,402000000,1996,13440000.0,South America
+Country 11,Arabica,402000000,1997,13440000.0,South America
+Country 11,Arabica,402000000,1998,13440000.0,South America
+Country 11,Arabica,402000000,1999,13440000.0,South America
+Country 11,Arabica,402000000,2000,13440000.0,South America
+Country 11,Arabica,402000000,2001,13440000.0,South America
+Country 11,Arabica,402000000,2002,14784000.0,South America
+Country 11,Arabica,402000000,2003,14784000.0,South America
+Country 11,Arabica,402000000,2004,14784000.0,South America
+Country 11,Arabica,402000000,2005,14784000.0,South America
+Country 11,Arabica,402000000,2006,14784000.0,South America
+Country 11,Arabica,402000000,2007,14784000.0,South America
+Country 11,Arabica,402000000,2008,16800000.0,South America
+Country 11,Arabica,402000000,2009,16800000.0,South America
+Country 11,Arabica,402000000,2010,16800000.0,South America
+Country 11,Arabica,402000000,2011,16800000.0,South America
+Country 11,Arabica,402000000,2012,16800000.0,South America
+Country 11,Arabica,402000000,2013,16800000.0,South America
+Country 11,Arabica,402000000,2014,16800000.0,South America
+Country 11,Arabica,402000000,2015,16800000.0,South America
+Country 11,Arabica,402000000,2016,16800000.0,South America
+Country 11,Arabica,402000000,2017,16800000.0,South America
+Country 11,Arabica,402000000,2018,16800000.0,South America
 Country 11,Arabica,402000000,2019,16800000.0,South America
+Country 12,Arabica,2139960,1990,67200.0,Africa
+Country 12,Arabica,2139960,1991,67200.0,Africa
+Country 12,Arabica,2139960,1992,67200.0,Africa
+Country 12,Arabica,2139960,1993,67200.0,Africa
+Country 12,Arabica,2139960,1994,67200.0,Africa
+Country 12,Arabica,2139960,1995,67200.0,Africa
+Country 12,Arabica,2139960,1996,67200.0,Africa
+Country 12,Arabica,2139960,1997,201600.0,Africa
+Country 12,Arabica,2139960,1998,201600.0,Africa
+Country 12,Arabica,2139960,1999,134400.0,Africa
+Country 12,Arabica,2139960,2000,134400.0,Africa
+Country 12,Arabica,2139960,2001,134400.0,Africa
+Country 12,Arabica,2139960,2002,22377.6,Africa
+Country 12,Arabica,2139960,2003,22377.6,Africa
+Country 12,Arabica,2139960,2004,67200.0,Africa
+Country 12,Arabica,2139960,2005,67200.0,Africa
+Country 12,Arabica,2139960,2006,67200.0,Africa
+Country 12,Arabica,2139960,2007,67200.0,Africa
+Country 12,Arabica,2139960,2008,67200.0,Africa
+Country 12,Arabica,2139960,2009,67200.0,Africa
+Country 12,Arabica,2139960,2010,67200.0,Africa
+Country 12,Arabica,2139960,2011,67200.0,Africa
+Country 12,Arabica,2139960,2012,67200.0,Africa
+Country 12,Arabica,2139960,2013,67200.0,Africa
+Country 12,Arabica,2139960,2014,67200.0,Africa
+Country 12,Arabica,2139960,2015,67200.0,Africa
+Country 12,Arabica,2139960,2016,67200.0,Africa
+Country 12,Arabica,2139960,2017,67200.0,Africa
+Country 12,Arabica,2139960,2018,67200.0,Africa
 Country 12,Arabica,2139960,2019,67200.0,Africa
+Country 13,Arabica,294000,2010,32928.0,Asia
+Country 13,Arabica,294000,2011,32928.0,Asia
+Country 13,Arabica,294000,2012,32928.0,Asia
+Country 13,Arabica,294000,2013,32928.0,Asia
+Country 13,Arabica,294000,2014,32928.0,Asia
+Country 13,Arabica,294000,2015,32928.0,Asia
+Country 13,Arabica,294000,2016,32928.0,Asia
+Country 13,Arabica,294000,2017,32928.0,Asia
+Country 13,Arabica,294000,2018,32928.0,Asia
 Country 13,Arabica,294000,2019,32928.0,Asia
+Country 14,Arabica,8595960,1990,537600.0,Africa
+Country 14,Arabica,8595960,1991,537600.0,Africa
+Country 14,Arabica,8595960,1992,537600.0,Africa
+Country 14,Arabica,8595960,1993,559977.6,Africa
+Country 14,Arabica,8595960,1994,559977.6,Africa
+Country 14,Arabica,8595960,1995,443520.0,Africa
+Country 14,Arabica,8595960,1996,268800.0,Africa
+Country 14,Arabica,8595960,1997,268800.0,Africa
+Country 14,Arabica,8595960,1998,268800.0,Africa
+Country 14,Arabica,8595960,1999,268800.0,Africa
+Country 14,Arabica,8595960,2000,268800.0,Africa
+Country 14,Arabica,8595960,2001,268800.0,Africa
+Country 14,Arabica,8595960,2002,268800.0,Africa
+Country 14,Arabica,8595960,2003,268800.0,Africa
+Country 14,Arabica,8595960,2004,268800.0,Africa
+Country 14,Arabica,8595960,2005,268800.0,Africa
+Country 14,Arabica,8595960,2006,268800.0,Africa
+Country 14,Arabica,8595960,2007,268800.0,Africa
+Country 14,Arabica,8595960,2008,268800.0,Africa
+Country 14,Arabica,8595960,2009,268800.0,Africa
+Country 14,Arabica,8595960,2010,268800.0,Africa
+Country 14,Arabica,8595960,2011,268800.0,Africa
+Country 14,Arabica,8595960,2012,268800.0,Africa
+Country 14,Arabica,8595960,2013,268800.0,Africa
+Country 14,Arabica,8595960,2014,268800.0,Africa
+Country 14,Arabica,8595960,2015,268800.0,Africa
+Country 14,Arabica,8595960,2016,268800.0,Africa
+Country 14,Arabica,8595960,2017,268800.0,Africa
+Country 14,Arabica,8595960,2018,268800.0,Africa
 Country 14,Arabica,8595960,2019,268800.0,Africa
+Country 15,Robusta,5360040,1990,201600.0,Africa
+Country 15,Robusta,5360040,1991,179222.4,Africa
+Country 15,Robusta,5360040,1992,179222.4,Africa
+Country 15,Robusta,5360040,1993,201600.0,Africa
+Country 15,Robusta,5360040,1994,201600.0,Africa
+Country 15,Robusta,5360040,1995,201600.0,Africa
+Country 15,Robusta,5360040,1996,201600.0,Africa
+Country 15,Robusta,5360040,1997,201600.0,Africa
+Country 15,Robusta,5360040,1998,201600.0,Africa
+Country 15,Robusta,5360040,1999,201600.0,Africa
+Country 15,Robusta,5360040,2000,201600.0,Africa
+Country 15,Robusta,5360040,2001,201600.0,Africa
+Country 15,Robusta,5360040,2002,201600.0,Africa
+Country 15,Robusta,5360040,2003,201600.0,Africa
+Country 15,Robusta,5360040,2004,201600.0,Africa
+Country 15,Robusta,5360040,2005,201600.0,Africa
+Country 15,Robusta,5360040,2006,201600.0,Africa
+Country 15,Robusta,5360040,2007,201600.0,Africa
+Country 15,Robusta,5360040,2008,201600.0,Africa
+Country 15,Robusta,5360040,2009,201600.0,Africa
+Country 15,Robusta,5360040,2010,201600.0,Africa
+Country 15,Robusta,5360040,2011,201600.0,Africa
+Country 15,Robusta,5360040,2012,201600.0,Africa
+Country 15,Robusta,5360040,2013,201600.0,Africa
+Country 15,Robusta,5360040,2014,201600.0,Africa
+Country 15,Robusta,5360040,2015,201600.0,Africa
+Country 15,Robusta,5360040,2016,201600.0,Africa
+Country 15,Robusta,5360040,2017,201600.0,Africa
+Country 15,Robusta,5360040,2018,201600.0,Africa
 Country 15,Robusta,5360040,2019,201600.0,Africa
+Country 16,Arabica,384006000,1990,14313600.0,North America
+Country 16,Arabica,384006000,1991,14313600.0,North America
+Country 16,Arabica,384006000,1992,13104000.0,North America
+Country 16,Arabica,384006000,1993,13043520.0,North America
+Country 16,Arabica,384006000,1994,13036800.0,North America
+Country 16,Arabica,384006000,1995,13036800.0,North America
+Country 16,Arabica,384006000,1996,12700800.0,North America
+Country 16,Arabica,384006000,1997,13104000.0,North America
+Country 16,Arabica,384006000,1998,13440000.0,North America
+Country 16,Arabica,384006000,1999,13440000.0,North America
+Country 16,Arabica,384006000,2000,14313600.0,North America
+Country 16,Arabica,384006000,2001,14784000.0,North America
+Country 16,Arabica,384006000,2002,15052800.0,North America
+Country 16,Arabica,384006000,2003,15052800.0,North America
+Country 16,Arabica,384006000,2004,15052800.0,North America
+Country 16,Arabica,384006000,2005,15052800.0,North America
+Country 16,Arabica,384006000,2006,15052800.0,North America
+Country 16,Arabica,384006000,2007,15052800.0,North America
+Country 16,Arabica,384006000,2008,14784000.0,North America
+Country 16,Arabica,384006000,2009,14784000.0,North America
+Country 16,Arabica,384006000,2010,14784000.0,North America
+Country 16,Arabica,384006000,2011,14784000.0,North America
+Country 16,Arabica,384006000,2012,14784000.0,North America
+Country 16,Arabica,384006000,2013,14784000.0,North America
+Country 16,Arabica,384006000,2014,14784000.0,North America
+Country 16,Arabica,384006000,2015,14784000.0,North America
+Country 16,Arabica,384006000,2016,14784000.0,North America
+Country 16,Arabica,384006000,2017,14784000.0,North America
+Country 16,Arabica,384006000,2018,14784000.0,North America
 Country 16,Arabica,384006000,2019,14515200.0,North America
+Country 17,Arabica/Robusta,642823380,1990,21504000.0,North America
+Country 17,Arabica/Robusta,642823380,1991,21504000.0,North America
+Country 17,Arabica/Robusta,642823380,1992,21504000.0,North America
+Country 17,Arabica/Robusta,642823380,1993,21504000.0,North America
+Country 17,Arabica/Robusta,642823380,1994,22176000.0,North America
+Country 17,Arabica/Robusta,642823380,1995,23520000.0,North America
+Country 17,Arabica/Robusta,642823380,1996,21840000.0,North America
+Country 17,Arabica/Robusta,642823380,1997,21840000.0,North America
+Country 17,Arabica/Robusta,642823380,1998,21840000.0,North America
+Country 17,Arabica/Robusta,642823380,1999,21840000.0,North America
+Country 17,Arabica/Robusta,642823380,2000,21840000.0,North America
+Country 17,Arabica/Robusta,642823380,2001,22861305.6,North America
+Country 17,Arabica/Robusta,642823380,2002,22861305.6,North America
+Country 17,Arabica/Robusta,642823380,2003,22848000.0,North America
+Country 17,Arabica/Robusta,642823380,2004,25401465.6,North America
+Country 17,Arabica/Robusta,642823380,2005,25401465.6,North America
+Country 17,Arabica/Robusta,642823380,2006,25401465.6,North America
+Country 17,Arabica/Robusta,642823380,2007,25401600.0,North America
+Country 17,Arabica/Robusta,642823380,2008,25401600.0,North America
+Country 17,Arabica/Robusta,642823380,2009,25401600.0,North America
+Country 17,Arabica/Robusta,642823380,2010,25401600.0,North America
+Country 17,Arabica/Robusta,642823380,2011,25401600.0,North America
+Country 17,Arabica/Robusta,642823380,2012,25401600.0,North America
+Country 17,Arabica/Robusta,642823380,2013,25759977.6,North America
+Country 17,Arabica/Robusta,642823380,2014,26073600.0,North America
+Country 17,Arabica/Robusta,642823380,2015,26073600.0,North America
+Country 17,Arabica/Robusta,642823380,2016,26208000.0,North America
+Country 17,Arabica/Robusta,642823380,2017,26208000.0,North America
+Country 17,Arabica/Robusta,642823380,2018,26208000.0,North America
 Country 17,Arabica/Robusta,642823380,2019,25334400.0,North America
+Country 18,Arabica,600600000,1990,14784000.0,North America
+Country 18,Arabica,600600000,1991,22176000.0,North America
+Country 18,Arabica,600600000,1992,22176000.0,North America
+Country 18,Arabica,600600000,1993,22176000.0,North America
+Country 18,Arabica,600600000,1994,22176000.0,North America
+Country 18,Arabica,600600000,1995,22176000.0,North America
+Country 18,Arabica,600600000,1996,22176000.0,North America
+Country 18,Arabica,600600000,1997,22176000.0,North America
+Country 18,Arabica,600600000,1998,22176000.0,North America
+Country 18,Arabica,600600000,1999,22848000.0,North America
+Country 18,Arabica,600600000,2000,22848000.0,North America
+Country 18,Arabica,600600000,2001,22848000.0,North America
+Country 18,Arabica,600600000,2002,22848000.0,North America
+Country 18,Arabica,600600000,2003,22848000.0,North America
+Country 18,Arabica,600600000,2004,22848000.0,North America
+Country 18,Arabica,600600000,2005,22848000.0,North America
+Country 18,Arabica,600600000,2006,22848000.0,North America
+Country 18,Arabica,600600000,2007,22848000.0,North America
+Country 18,Arabica,600600000,2008,22848000.0,North America
+Country 18,Arabica,600600000,2009,22848000.0,North America
+Country 18,Arabica,600600000,2010,22848000.0,North America
+Country 18,Arabica,600600000,2011,22848000.0,North America
+Country 18,Arabica,600600000,2012,22848000.0,North America
+Country 18,Arabica,600600000,2013,22848000.0,North America
+Country 18,Arabica,600600000,2014,22848000.0,North America
+Country 18,Arabica,600600000,2015,22848000.0,North America
+Country 18,Arabica,600600000,2016,22848000.0,North America
+Country 18,Arabica,600600000,2017,22848000.0,North America
+Country 18,Arabica,600600000,2018,23184000.0,North America
 Country 18,Arabica,600600000,2019,23184000.0,North America
+Country 19,Robusta/Arabica,2807280000,1990,48384000.0,Asia
+Country 19,Robusta/Arabica,2807280000,1991,50400000.0,Asia
+Country 19,Robusta/Arabica,2807280000,1992,50400000.0,Asia
+Country 19,Robusta/Arabica,2807280000,1993,51744000.0,Asia
+Country 19,Robusta/Arabica,2807280000,1994,53088000.0,Asia
+Country 19,Robusta/Arabica,2807280000,1995,54432000.0,Asia
+Country 19,Robusta/Arabica,2807280000,1996,55843200.0,Asia
+Country 19,Robusta/Arabica,2807280000,1997,57321600.0,Asia
+Country 19,Robusta/Arabica,2807280000,1998,54432000.0,Asia
+Country 19,Robusta/Arabica,2807280000,1999,57926400.0,Asia
+Country 19,Robusta/Arabica,2807280000,2000,55104000.0,Asia
+Country 19,Robusta/Arabica,2807280000,2001,55171200.0,Asia
+Country 19,Robusta/Arabica,2807280000,2002,55708800.0,Asia
+Country 19,Robusta/Arabica,2807280000,2003,61622400.0,Asia
+Country 19,Robusta/Arabica,2807280000,2004,68544000.0,Asia
+Country 19,Robusta/Arabica,2807280000,2005,69888000.0,Asia
+Country 19,Robusta/Arabica,2807280000,2006,71232000.0,Asia
+Country 19,Robusta/Arabica,2807280000,2007,71232000.0,Asia
+Country 19,Robusta/Arabica,2807280000,2008,115584000.0,Asia
+Country 19,Robusta/Arabica,2807280000,2009,122304000.0,Asia
+Country 19,Robusta/Arabica,2807280000,2010,142800000.0,Asia
+Country 19,Robusta/Arabica,2807280000,2011,146160000.0,Asia
+Country 19,Robusta/Arabica,2807280000,2012,156240000.0,Asia
+Country 19,Robusta/Arabica,2807280000,2013,171360000.0,Asia
+Country 19,Robusta/Arabica,2807280000,2014,188160000.0,Asia
+Country 19,Robusta/Arabica,2807280000,2015,201600000.0,Asia
+Country 19,Robusta/Arabica,2807280000,2016,203616000.0,Asia
+Country 19,Robusta/Arabica,2807280000,2017,213696000.0,Asia
+Country 19,Robusta/Arabica,2807280000,2018,221760000.0,Asia
 Country 19,Robusta/Arabica,2807280000,2019,218400000.0,Asia
+Country 2,Arabica,75180000,1990,1680000.0,South America
+Country 2,Arabica,75180000,1991,1814400.0,South America
+Country 2,Arabica,75180000,1992,1848000.0,South America
+Country 2,Arabica,75180000,1993,1915200.0,South America
+Country 2,Arabica,75180000,1994,1982400.0,South America
+Country 2,Arabica,75180000,1995,2049600.0,South America
+Country 2,Arabica,75180000,1996,2116800.0,South America
+Country 2,Arabica,75180000,1997,2184000.0,South America
+Country 2,Arabica,75180000,1998,2217600.0,South America
+Country 2,Arabica,75180000,1999,2284800.0,South America
+Country 2,Arabica,75180000,2000,2352000.0,South America
+Country 2,Arabica,75180000,2001,2452800.0,South America
+Country 2,Arabica,75180000,2002,2520000.0,South America
+Country 2,Arabica,75180000,2003,2587200.0,South America
+Country 2,Arabica,75180000,2004,3024000.0,South America
+Country 2,Arabica,75180000,2005,2755200.0,South America
+Country 2,Arabica,75180000,2006,2822400.0,South America
+Country 2,Arabica,75180000,2007,2923200.0,South America
+Country 2,Arabica,75180000,2008,3024000.0,South America
+Country 2,Arabica,75180000,2009,3091200.0,South America
+Country 2,Arabica,75180000,2010,3192000.0,South America
+Country 2,Arabica,75180000,2011,3292800.0,South America
+Country 2,Arabica,75180000,2012,3393600.0,South America
+Country 2,Arabica,75180000,2013,3494400.0,South America
+Country 2,Arabica,75180000,2014,3595200.0,South America
+Country 2,Arabica,75180000,2015,3696000.0,South America
+Country 2,Arabica,75180000,2016,3830400.0,South America
+Country 2,Arabica,75180000,2017,3931200.0,South America
+Country 2,Arabica,75180000,2018,4032000.0,South America
+Country 2,Arabica,75180000,2019,4099200.0,South America
+Country 20,Arabica/Robusta,76425060,1990,268800.0,Africa
+Country 20,Arabica/Robusta,76425060,1991,235200.0,Africa
+Country 20,Arabica/Robusta,76425060,1992,1290240.0,Africa
+Country 20,Arabica/Robusta,76425060,1993,1176000.0,Africa
+Country 20,Arabica/Robusta,76425060,1994,1176000.0,Africa
+Country 20,Arabica/Robusta,76425060,1995,913920.0,Africa
+Country 20,Arabica/Robusta,76425060,1996,1115520.0,Africa
+Country 20,Arabica/Robusta,76425060,1997,1142400.0,Africa
+Country 20,Arabica/Robusta,76425060,1998,1142400.0,Africa
+Country 20,Arabica/Robusta,76425060,1999,940800.0,Africa
+Country 20,Arabica/Robusta,76425060,2000,1008000.0,Africa
+Country 20,Arabica/Robusta,76425060,2001,1008000.0,Africa
+Country 20,Arabica/Robusta,76425060,2002,1008000.0,Africa
+Country 20,Arabica/Robusta,76425060,2003,1814400.0,Africa
+Country 20,Arabica/Robusta,76425060,2004,2486400.0,Africa
+Country 20,Arabica/Robusta,76425060,2005,3158400.0,Africa
+Country 20,Arabica/Robusta,76425060,2006,3158400.0,Africa
+Country 20,Arabica/Robusta,76425060,2007,3158400.0,Africa
+Country 20,Arabica/Robusta,76425060,2008,3158400.0,Africa
+Country 20,Arabica/Robusta,76425060,2009,3158400.0,Africa
+Country 20,Arabica/Robusta,76425060,2010,3158400.0,Africa
+Country 20,Arabica/Robusta,76425060,2011,3961440.0,Africa
+Country 20,Arabica/Robusta,76425060,2012,4818240.0,Africa
+Country 20,Arabica/Robusta,76425060,2013,4936982.4,Africa
+Country 20,Arabica/Robusta,76425060,2014,5155382.4,Africa
+Country 20,Arabica/Robusta,76425060,2015,6185760.0,Africa
+Country 20,Arabica/Robusta,76425060,2016,6135360.0,Africa
+Country 20,Arabica/Robusta,76425060,2017,6160022.4,Africa
+Country 20,Arabica/Robusta,76425060,2018,6182400.0,Africa
 Country 20,Arabica/Robusta,76425060,2019,6384000.0,Africa
+Country 22,Robusta/Arabica,143450940,1990,5597760.0,Africa
+Country 22,Robusta/Arabica,143450940,1991,5599977.6,Africa
+Country 22,Robusta/Arabica,143450940,1992,5599977.6,Africa
+Country 22,Robusta/Arabica,143450940,1993,6720000.0,Africa
+Country 22,Robusta/Arabica,143450940,1994,6720000.0,Africa
+Country 22,Robusta/Arabica,143450940,1995,6720000.0,Africa
+Country 22,Robusta/Arabica,143450940,1996,6720000.0,Africa
+Country 22,Robusta/Arabica,143450940,1997,6720000.0,Africa
+Country 22,Robusta/Arabica,143450940,1998,6720000.0,Africa
+Country 22,Robusta/Arabica,143450940,1999,6720000.0,Africa
+Country 22,Robusta/Arabica,143450940,2000,5040000.0,Africa
+Country 22,Robusta/Arabica,143450940,2001,4636800.0,Africa
+Country 22,Robusta/Arabica,143450940,2002,4636800.0,Africa
+Country 22,Robusta/Arabica,143450940,2003,4636800.0,Africa
+Country 22,Robusta/Arabica,143450940,2004,4636800.0,Africa
+Country 22,Robusta/Arabica,143450940,2005,4636800.0,Africa
+Country 22,Robusta/Arabica,143450940,2006,4636800.0,Africa
+Country 22,Robusta/Arabica,143450940,2007,4636800.0,Africa
+Country 22,Robusta/Arabica,143450940,2008,4636800.0,Africa
+Country 22,Robusta/Arabica,143450940,2009,4636800.0,Africa
+Country 22,Robusta/Arabica,143450940,2010,4591977.6,Africa
+Country 22,Robusta/Arabica,143450940,2011,4705142.4,Africa
+Country 22,Robusta/Arabica,143450940,2012,4820457.6,Africa
+Country 22,Robusta/Arabica,143450940,2013,4938057.6,Africa
+Country 22,Robusta/Arabica,143450940,2014,5061302.4,Africa
+Country 22,Robusta/Arabica,143450940,2015,5107200.0,Africa
+Country 22,Robusta/Arabica,143450940,2016,5174400.0,Africa
+Country 22,Robusta/Arabica,143450940,2017,5241600.0,Africa
+Country 22,Robusta/Arabica,143450940,2018,5241600.0,Africa
 Country 22,Robusta/Arabica,143450940,2019,5174400.0,Africa
+Country 23,Robusta,24794400,1990,1881600.0,Africa
+Country 23,Robusta,24794400,1991,1881600.0,Africa
+Country 23,Robusta,24794400,1992,1881600.0,Africa
+Country 23,Robusta,24794400,1993,1680000.0,Africa
+Country 23,Robusta,24794400,1994,1008000.0,Africa
+Country 23,Robusta,24794400,1995,672000.0,Africa
+Country 23,Robusta,24794400,1996,672000.0,Africa
+Country 23,Robusta,24794400,1997,672000.0,Africa
+Country 23,Robusta,24794400,1998,1276800.0,Africa
+Country 23,Robusta,24794400,1999,1411200.0,Africa
+Country 23,Robusta,24794400,2000,201600.0,Africa
+Country 23,Robusta,24794400,2001,201600.0,Africa
+Country 23,Robusta,24794400,2002,254486.4,Africa
+Country 23,Robusta,24794400,2003,254486.4,Africa
+Country 23,Robusta,24794400,2004,201600.0,Africa
+Country 23,Robusta,24794400,2005,201600.0,Africa
+Country 23,Robusta,24794400,2006,201600.0,Africa
+Country 23,Robusta,24794400,2007,223977.6,Africa
+Country 23,Robusta,24794400,2008,336000.0,Africa
+Country 23,Robusta,24794400,2009,559977.6,Africa
+Country 23,Robusta,24794400,2010,672000.0,Africa
+Country 23,Robusta,24794400,2011,895977.6,Africa
+Country 23,Robusta,24794400,2012,1120022.4,Africa
+Country 23,Robusta,24794400,2013,1344000.0,Africa
+Country 23,Robusta,24794400,2014,1344000.0,Africa
+Country 23,Robusta,24794400,2015,1344000.0,Africa
+Country 23,Robusta,24794400,2016,1344000.0,Africa
+Country 23,Robusta,24794400,2017,1344000.0,Africa
+Country 23,Robusta,24794400,2018,1344000.0,Africa
 Country 23,Robusta,24794400,2019,1344000.0,Africa
+Country 24,Arabica,2536776384,1990,82992000.0,South America
+Country 24,Arabica,2536776384,1991,85276800.0,South America
+Country 24,Arabica,2536776384,1992,87561600.0,South America
+Country 24,Arabica,2536776384,1993,89980800.0,South America
+Country 24,Arabica,2536776384,1994,92400000.0,South America
+Country 24,Arabica,2536776384,1995,91324800.0,South America
+Country 24,Arabica,2536776384,1996,90249600.0,South America
+Country 24,Arabica,2536776384,1997,89241600.0,South America
+Country 24,Arabica,2536776384,1998,88166400.0,South America
+Country 24,Arabica,2536776384,1999,87158400.0,South America
+Country 24,Arabica,2536776384,2000,86150400.0,South America
+Country 24,Arabica,2536776384,2001,85142400.0,South America
+Country 24,Arabica,2536776384,2002,84134400.0,South America
+Country 24,Arabica,2536776384,2003,83126400.0,South America
+Country 24,Arabica,2536776384,2004,82185600.0,South America
+Country 24,Arabica,2536776384,2005,81244800.0,South America
+Country 24,Arabica,2536776384,2006,80279337.6,South America
+Country 24,Arabica,2536776384,2007,86078025.6,South America
+Country 24,Arabica,2536776384,2008,86721600.0,South America
+Country 24,Arabica,2536776384,2009,85644988.8,South America
+Country 24,Arabica,2536776384,2010,88100812.8,South America
+Country 24,Arabica,2536776384,2011,96436368.0,South America
+Country 24,Arabica,2536776384,2012,101757062.4,South America
+Country 24,Arabica,2536776384,2013,108663744.0,South America
+Country 24,Arabica,2536776384,2014,111918307.2,South America
+Country 24,Arabica,2536776384,2015,115609065.6,South America
+Country 24,Arabica,2536776384,2016,116688862.08,South America
+Country 24,Arabica,2536776384,2017,120507811.2,South America
+Country 24,Arabica,2536776384,2018,120382752.0,South America
 Country 24,Arabica,2536776384,2019,136064812.8,South America
+Country 25,Arabica,665335200,1990,25200000.0,North America
+Country 25,Arabica,665335200,1991,25200000.0,North America
+Country 25,Arabica,665335200,1992,25200000.0,North America
+Country 25,Arabica,665335200,1993,25200000.0,North America
+Country 25,Arabica,665335200,1994,25200000.0,North America
+Country 25,Arabica,665335200,1995,25200000.0,North America
+Country 25,Arabica,665335200,1996,25200000.0,North America
+Country 25,Arabica,665335200,1997,25200000.0,North America
+Country 25,Arabica,665335200,1998,25200000.0,North America
+Country 25,Arabica,665335200,1999,25200000.0,North America
+Country 25,Arabica,665335200,2000,25200000.0,North America
+Country 25,Arabica,665335200,2001,25200000.0,North America
+Country 25,Arabica,665335200,2002,25200000.0,North America
+Country 25,Arabica,665335200,2003,25200000.0,North America
+Country 25,Arabica,665335200,2004,25200000.0,North America
+Country 25,Arabica,665335200,2005,25200000.0,North America
+Country 25,Arabica,665335200,2006,25200000.0,North America
+Country 25,Arabica,665335200,2007,25200000.0,North America
+Country 25,Arabica,665335200,2008,18000124.8,North America
+Country 25,Arabica,665335200,2009,19853635.2,North America
+Country 25,Arabica,665335200,2010,27365251.2,North America
+Country 25,Arabica,665335200,2011,25595673.6,North America
+Country 25,Arabica,665335200,2012,28432118.4,North America
+Country 25,Arabica,665335200,2013,22516032.0,North America
+Country 25,Arabica,665335200,2014,25585862.4,North America
+Country 25,Arabica,665335200,2015,30160771.2,North America
+Country 25,Arabica,665335200,2016,22139510.4,North America
+Country 25,Arabica,665335200,2017,23744044.8,North America
+Country 25,Arabica,665335200,2018,24528000.0,North America
 Country 25,Arabica,665335200,2019,23654400.0,North America
+Country 26,Robusta,410260140,1990,3360000.0,Africa
+Country 26,Robusta,410260140,1991,3360000.0,Africa
+Country 26,Robusta,410260140,1992,3360000.0,Africa
+Country 26,Robusta,410260140,1993,3360000.0,Africa
+Country 26,Robusta,410260140,1994,3360000.0,Africa
+Country 26,Robusta,410260140,1995,3360000.0,Africa
+Country 26,Robusta,410260140,1996,3360000.0,Africa
+Country 26,Robusta,410260140,1997,3360000.0,Africa
+Country 26,Robusta,410260140,1998,3360000.0,Africa
+Country 26,Robusta,410260140,1999,3360000.0,Africa
+Country 26,Robusta,410260140,2000,21280022.4,Africa
+Country 26,Robusta,410260140,2001,21280022.4,Africa
+Country 26,Robusta,410260140,2002,21280022.4,Africa
+Country 26,Robusta,410260140,2003,21280022.4,Africa
+Country 26,Robusta,410260140,2004,21280022.4,Africa
+Country 26,Robusta,410260140,2005,21280022.4,Africa
+Country 26,Robusta,410260140,2006,21280022.4,Africa
+Country 26,Robusta,410260140,2007,21302400.0,Africa
+Country 26,Robusta,410260140,2008,21302400.0,Africa
+Country 26,Robusta,410260140,2009,21302400.0,Africa
+Country 26,Robusta,410260140,2010,21302400.0,Africa
+Country 26,Robusta,410260140,2011,21302400.0,Africa
+Country 26,Robusta,410260140,2012,21302400.0,Africa
+Country 26,Robusta,410260140,2013,21302400.0,Africa
+Country 26,Robusta,410260140,2014,21302400.0,Africa
+Country 26,Robusta,410260140,2015,21302400.0,Africa
+Country 26,Robusta,410260140,2016,21302400.0,Africa
+Country 26,Robusta,410260140,2017,21302400.0,Africa
+Country 26,Robusta,410260140,2018,21302400.0,Africa
 Country 26,Robusta,410260140,2019,21302400.0,Africa
+Country 27,Robusta/Arabica,359880000,1990,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,1991,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,1992,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,1993,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,1994,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,1995,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,1996,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,1997,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,1998,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,1999,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2000,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2001,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2002,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2003,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2004,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2005,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2006,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2007,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2008,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2009,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2010,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2011,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2012,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2013,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2014,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2015,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2016,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2017,13440000.0,Africa
+Country 27,Robusta/Arabica,359880000,2018,13440000.0,Africa
 Country 27,Robusta/Arabica,359880000,2019,13305600.0,Africa
+Country 28,Arabica,417242040,1990,12096000.0,North America
+Country 28,Arabica,417242040,1991,12096000.0,North America
+Country 28,Arabica,417242040,1992,15456000.0,North America
+Country 28,Arabica,417242040,1993,15456000.0,North America
+Country 28,Arabica,417242040,1994,15456000.0,North America
+Country 28,Arabica,417242040,1995,18144000.0,North America
+Country 28,Arabica,417242040,1996,15456000.0,North America
+Country 28,Arabica,417242040,1997,12880022.4,North America
+Country 28,Arabica,417242040,1998,12880022.4,North America
+Country 28,Arabica,417242040,1999,10301760.0,North America
+Country 28,Arabica,417242040,2000,9676800.0,North America
+Country 28,Arabica,417242040,2001,10301760.0,North America
+Country 28,Arabica,417242040,2002,10301760.0,North America
+Country 28,Arabica,417242040,2003,10301760.0,North America
+Country 28,Arabica,417242040,2004,11592000.0,North America
+Country 28,Arabica,417242040,2005,15059520.0,North America
+Country 28,Arabica,417242040,2006,17055360.0,North America
+Country 28,Arabica,417242040,2007,16833600.0,North America
+Country 28,Arabica,417242040,2008,16416960.0,North America
+Country 28,Arabica,417242040,2009,18029760.0,North America
+Country 28,Arabica,417242040,2010,18547200.0,North America
+Country 28,Arabica,417242040,2011,18372480.0,North America
+Country 28,Arabica,417242040,2012,18587520.0,North America
+Country 28,Arabica,417242040,2013,18480000.0,North America
+Country 28,Arabica,417242040,2014,18816000.0,North America
+Country 28,Arabica,417242040,2015,19152000.0,North America
+Country 28,Arabica,417242040,2016,19622400.0,North America
+Country 28,Arabica,417242040,2017,20160000.0,North America
+Country 28,Arabica,417242040,2018,20160000.0,North America
 Country 28,Arabica,417242040,2019,19622400.0,North America
+Country 3,Arabica/Robusta,27824700000,1990,551040000.0,South America
+Country 3,Arabica/Robusta,27824700000,1991,571200000.0,South America
+Country 3,Arabica/Robusta,27824700000,1992,598080000.0,South America
+Country 3,Arabica/Robusta,27824700000,1993,611520000.0,South America
+Country 3,Arabica/Robusta,27824700000,1994,624960000.0,South America
+Country 3,Arabica/Robusta,27824700000,1995,678720000.0,South America
+Country 3,Arabica/Robusta,27824700000,1996,739200000.0,South America
+Country 3,Arabica/Robusta,27824700000,1997,772800000.0,South America
+Country 3,Arabica/Robusta,27824700000,1998,819840000.0,South America
+Country 3,Arabica/Robusta,27824700000,1999,853440000.0,South America
+Country 3,Arabica/Robusta,27824700000,2000,887040000.0,South America
+Country 3,Arabica/Robusta,27824700000,2001,913248000.0,South America
+Country 3,Arabica/Robusta,27824700000,2002,924000000.0,South America
+Country 3,Arabica/Robusta,27824700000,2003,954240000.0,South America
+Country 3,Arabica/Robusta,27824700000,2004,1004371200.0,South America
+Country 3,Arabica/Robusta,27824700000,2005,1044153600.0,South America
+Country 3,Arabica/Robusta,27824700000,2006,1097443200.0,South America
+Country 3,Arabica/Robusta,27824700000,2007,1149792000.0,South America
+Country 3,Arabica/Robusta,27824700000,2008,1186752000.0,South America
+Country 3,Arabica/Robusta,27824700000,2009,1235808000.0,South America
+Country 3,Arabica/Robusta,27824700000,2010,1285670400.0,South America
+Country 3,Arabica/Robusta,27824700000,2011,1325184000.0,South America
+Country 3,Arabica/Robusta,27824700000,2012,1366176000.0,South America
+Country 3,Arabica/Robusta,27824700000,2013,1349712000.0,South America
+Country 3,Arabica/Robusta,27824700000,2014,1366377600.0,South America
+Country 3,Arabica/Robusta,27824700000,2015,1378137600.0,South America
+Country 3,Arabica/Robusta,27824700000,2016,1426320000.0,South America
+Country 3,Arabica/Robusta,27824700000,2017,1478198400.0,South America
+Country 3,Arabica/Robusta,27824700000,2018,1491840000.0,South America
+Country 3,Arabica/Robusta,27824700000,2019,1478400000.0,South America
+Country 30,Arabica,4536540000,1990,80640000.0,Africa
+Country 30,Arabica,4536540000,1991,84940800.0,Africa
+Country 30,Arabica,4536540000,1992,89443200.0,Africa
+Country 30,Arabica,4536540000,1993,94214400.0,Africa
+Country 30,Arabica,4536540000,1994,99187200.0,Africa
+Country 30,Arabica,4536540000,1995,104496000.0,Africa
+Country 30,Arabica,4536540000,1996,110006400.0,Africa
+Country 30,Arabica,4536540000,1997,115852800.0,Africa
+Country 30,Arabica,4536540000,1998,122035200.0,Africa
+Country 30,Arabica,4536540000,1999,128486400.0,Africa
+Country 30,Arabica,4536540000,2000,135340800.0,Africa
+Country 30,Arabica,4536540000,2001,142531200.0,Africa
+Country 30,Arabica,4536540000,2002,150124800.0,Africa
+Country 30,Arabica,4536540000,2003,158121600.0,Africa
+Country 30,Arabica,4536540000,2004,166521600.0,Africa
+Country 30,Arabica,4536540000,2005,175324800.0,Africa
+Country 30,Arabica,4536540000,2006,184665600.0,Africa
+Country 30,Arabica,4536540000,2007,194476800.0,Africa
+Country 30,Arabica,4536540000,2008,204825600.0,Africa
+Country 30,Arabica,4536540000,2009,208924800.0,Africa
+Country 30,Arabica,4536540000,2010,213091200.0,Africa
+Country 30,Arabica,4536540000,2011,217392000.0,Africa
+Country 30,Arabica,4536540000,2012,221692800.0,Africa
+Country 30,Arabica,4536540000,2013,226128000.0,Africa
+Country 30,Arabica,4536540000,2014,230697600.0,Africa
+Country 30,Arabica,4536540000,2015,235267200.0,Africa
+Country 30,Arabica,4536540000,2016,239971200.0,Africa
+Country 30,Arabica,4536540000,2017,244809600.0,Africa
+Country 30,Arabica,4536540000,2018,247632000.0,Africa
 Country 30,Arabica,4536540000,2019,254083200.0,Africa
+Country 31,Robusta,1123140,1990,114240.0,Africa
+Country 31,Robusta,1123140,1991,67200.0,Africa
+Country 31,Robusta,1123140,1992,53760.0,Africa
+Country 31,Robusta,1123140,1993,53760.0,Africa
+Country 31,Robusta,1123140,1994,67200.0,Africa
+Country 31,Robusta,1123140,1995,53760.0,Africa
+Country 31,Robusta,1123140,1996,55977.6,Africa
+Country 31,Robusta,1123140,1997,53760.0,Africa
+Country 31,Robusta,1123140,1998,53760.0,Africa
+Country 31,Robusta,1123140,1999,48048.0,Africa
+Country 31,Robusta,1123140,2000,20160.0,Africa
+Country 31,Robusta,1123140,2001,20160.0,Africa
+Country 31,Robusta,1123140,2002,20160.0,Africa
+Country 31,Robusta,1123140,2003,20160.0,Africa
+Country 31,Robusta,1123140,2004,20160.0,Africa
+Country 31,Robusta,1123140,2005,20160.0,Africa
+Country 31,Robusta,1123140,2006,20160.0,Africa
+Country 31,Robusta,1123140,2007,20160.0,Africa
+Country 31,Robusta,1123140,2008,18480.0,Africa
+Country 31,Robusta,1123140,2009,16800.0,Africa
+Country 31,Robusta,1123140,2010,63638.4,Africa
+Country 31,Robusta,1123140,2011,69350.4,Africa
+Country 31,Robusta,1123140,2012,64982.4,Africa
+Country 31,Robusta,1123140,2013,39177.6,Africa
+Country 31,Robusta,1123140,2014,34742.4,Africa
+Country 31,Robusta,1123140,2015,33600.0,Africa
+Country 31,Robusta,1123140,2016,33600.0,Africa
+Country 31,Robusta,1123140,2017,33600.0,Africa
+Country 31,Robusta,1123140,2018,33600.0,Africa
 Country 31,Robusta,1123140,2019,33600.0,Africa
+Country 32,Robusta,9970800,1990,1142400.0,Africa
+Country 32,Robusta,9970800,1991,1142400.0,Africa
+Country 32,Robusta,9970800,1992,1142400.0,Africa
+Country 32,Robusta,9970800,1993,1142400.0,Africa
+Country 32,Robusta,9970800,1994,1881600.0,Africa
+Country 32,Robusta,9970800,1995,1881600.0,Africa
+Country 32,Robusta,9970800,1996,201600.0,Africa
+Country 32,Robusta,9970800,1997,201600.0,Africa
+Country 32,Robusta,9970800,1998,67200.0,Africa
+Country 32,Robusta,9970800,1999,67200.0,Africa
+Country 32,Robusta,9970800,2000,67200.0,Africa
+Country 32,Robusta,9970800,2001,67200.0,Africa
+Country 32,Robusta,9970800,2002,67200.0,Africa
+Country 32,Robusta,9970800,2003,67200.0,Africa
+Country 32,Robusta,9970800,2004,106848.0,Africa
+Country 32,Robusta,9970800,2005,106848.0,Africa
+Country 32,Robusta,9970800,2006,67200.0,Africa
+Country 32,Robusta,9970800,2007,134400.0,Africa
+Country 32,Robusta,9970800,2008,134400.0,Africa
+Country 32,Robusta,9970800,2009,134400.0,Africa
+Country 32,Robusta,9970800,2010,134400.0,Africa
+Country 32,Robusta,9970800,2011,134400.0,Africa
+Country 32,Robusta,9970800,2012,134400.0,Africa
+Country 32,Robusta,9970800,2013,134400.0,Africa
+Country 32,Robusta,9970800,2014,134400.0,Africa
+Country 32,Robusta,9970800,2015,134400.0,Africa
+Country 32,Robusta,9970800,2016,134400.0,Africa
+Country 32,Robusta,9970800,2017,134400.0,Africa
+Country 32,Robusta,9970800,2018,134400.0,Africa
 Country 32,Robusta,9970800,2019,134400.0,Africa
+Country 33,Arabica/Robusta,590880000,1990,20160000.0,North America
+Country 33,Arabica/Robusta,590880000,1991,20160000.0,North America
+Country 33,Arabica/Robusta,590880000,1992,20160000.0,North America
+Country 33,Arabica/Robusta,590880000,1993,20832000.0,North America
+Country 33,Arabica/Robusta,590880000,1994,20832000.0,North America
+Country 33,Arabica/Robusta,590880000,1995,20832000.0,North America
+Country 33,Arabica/Robusta,590880000,1996,20160000.0,North America
+Country 33,Arabica/Robusta,590880000,1997,20160000.0,North America
+Country 33,Arabica/Robusta,590880000,1998,20160000.0,North America
+Country 33,Arabica/Robusta,590880000,1999,20160000.0,North America
+Country 33,Arabica/Robusta,590880000,2000,20160000.0,North America
+Country 33,Arabica/Robusta,590880000,2001,20160000.0,North America
+Country 33,Arabica/Robusta,590880000,2002,20160000.0,North America
+Country 33,Arabica/Robusta,590880000,2003,20160000.0,North America
+Country 33,Arabica/Robusta,590880000,2004,20160000.0,North America
+Country 33,Arabica/Robusta,590880000,2005,20160000.0,North America
+Country 33,Arabica/Robusta,590880000,2006,20160000.0,North America
+Country 33,Arabica/Robusta,590880000,2007,20160000.0,North America
+Country 33,Arabica/Robusta,590880000,2008,22512000.0,North America
+Country 33,Arabica/Robusta,590880000,2009,21504000.0,North America
+Country 33,Arabica/Robusta,590880000,2010,22848000.0,North America
+Country 33,Arabica/Robusta,590880000,2011,23520000.0,North America
+Country 33,Arabica/Robusta,590880000,2012,24192000.0,North America
+Country 33,Arabica/Robusta,590880000,2013,24864000.0,North America
+Country 33,Arabica/Robusta,590880000,2014,25536000.0,North America
+Country 33,Arabica/Robusta,590880000,2015,26208000.0,North America
+Country 33,Arabica/Robusta,590880000,2016,26208000.0,North America
+Country 33,Arabica/Robusta,590880000,2017,26544000.0,North America
+Country 33,Arabica/Robusta,590880000,2018,26544000.0,North America
 Country 33,Arabica/Robusta,590880000,2019,26409600.0,North America
+Country 34,Robusta,86730000,1990,1680000.0,Africa
+Country 34,Robusta,86730000,1991,1680000.0,Africa
+Country 34,Robusta,86730000,1992,4200000.0,Africa
+Country 34,Robusta,86730000,1993,2217600.0,Africa
+Country 34,Robusta,86730000,1994,3360000.0,Africa
+Country 34,Robusta,86730000,1995,3360000.0,Africa
+Country 34,Robusta,86730000,1996,3360000.0,Africa
+Country 34,Robusta,86730000,1997,3360000.0,Africa
+Country 34,Robusta,86730000,1998,3360000.0,Africa
+Country 34,Robusta,86730000,1999,3360000.0,Africa
+Country 34,Robusta,86730000,2000,3360000.0,Africa
+Country 34,Robusta,86730000,2001,3360000.0,Africa
+Country 34,Robusta,86730000,2002,3360000.0,Africa
+Country 34,Robusta,86730000,2003,3360000.0,Africa
+Country 34,Robusta,86730000,2004,3360000.0,Africa
+Country 34,Robusta,86730000,2005,3360000.0,Africa
+Country 34,Robusta,86730000,2006,3360000.0,Africa
+Country 34,Robusta,86730000,2007,3360000.0,Africa
+Country 34,Robusta,86730000,2008,3360000.0,Africa
+Country 34,Robusta,86730000,2009,3360000.0,Africa
+Country 34,Robusta,86730000,2010,3360000.0,Africa
+Country 34,Robusta,86730000,2011,3360000.0,Africa
+Country 34,Robusta,86730000,2012,3360000.0,Africa
+Country 34,Robusta,86730000,2013,3360000.0,Africa
+Country 34,Robusta,86730000,2014,3360000.0,Africa
+Country 34,Robusta,86730000,2015,3360000.0,Africa
+Country 34,Robusta,86730000,2016,3360000.0,Africa
+Country 34,Robusta,86730000,2017,3360000.0,Africa
+Country 34,Robusta,86730000,2018,3360000.0,Africa
 Country 34,Robusta,86730000,2019,3360000.0,Africa
+Country 35,Robusta,9203040,1998,327062.4,South America
+Country 35,Robusta,9203040,1999,292320.0,South America
+Country 35,Robusta,9203040,2000,126537.6,South America
+Country 35,Robusta,9203040,2001,280022.4,South America
+Country 35,Robusta,9203040,2002,292320.0,South America
+Country 35,Robusta,9203040,2003,319200.0,South America
+Country 35,Robusta,9203040,2004,369600.0,South America
+Country 35,Robusta,9203040,2005,376320.0,South America
+Country 35,Robusta,9203040,2006,384182.4,South America
+Country 35,Robusta,9203040,2007,470400.0,South America
+Country 35,Robusta,9203040,2008,568982.4,South America
+Country 35,Robusta,9203040,2009,553257.6,South America
+Country 35,Robusta,9203040,2010,571200.0,South America
+Country 35,Robusta,9203040,2011,577920.0,South America
+Country 35,Robusta,9203040,2012,584640.0,South America
+Country 35,Robusta,9203040,2013,591360.0,South America
+Country 35,Robusta,9203040,2014,598080.0,South America
+Country 35,Robusta,9203040,2015,604800.0,South America
+Country 35,Robusta,9203040,2016,604800.0,South America
+Country 35,Robusta,9203040,2017,604800.0,South America
+Country 35,Robusta,9203040,2018,604800.0,South America
 Country 35,Robusta,9203040,2019,604800.0,South America
+Country 36,Arabica,471850680,1990,12643948.8,North America
+Country 36,Arabica,471850680,1991,17277120.0,North America
+Country 36,Arabica,471850680,1992,16128000.0,North America
+Country 36,Arabica,471850680,1993,15456000.0,North America
+Country 36,Arabica,471850680,1994,17001600.0,North America
+Country 36,Arabica,471850680,1995,10819200.0,North America
+Country 36,Arabica,471850680,1996,11284492.8,North America
+Country 36,Arabica,471850680,1997,10819200.0,North America
+Country 36,Arabica,471850680,1998,9273600.0,North America
+Country 36,Arabica,471850680,1999,11289600.0,North America
+Country 36,Arabica,471850680,2000,15456000.0,North America
+Country 36,Arabica,471850680,2001,13440000.0,North America
+Country 36,Arabica,471850680,2002,13440000.0,North America
+Country 36,Arabica,471850680,2003,13440000.0,North America
+Country 36,Arabica,471850680,2004,15456000.0,North America
+Country 36,Arabica,471850680,2005,15456000.0,North America
+Country 36,Arabica,471850680,2006,15456000.0,North America
+Country 36,Arabica,471850680,2007,16464000.0,North America
+Country 36,Arabica,471850680,2008,18031977.6,North America
+Country 36,Arabica,471850680,2009,20608022.4,North America
+Country 36,Arabica,471850680,2010,22512000.0,North America
+Country 36,Arabica,471850680,2011,22848000.0,North America
+Country 36,Arabica,471850680,2012,23184000.0,North America
+Country 36,Arabica,471850680,2013,23520000.0,North America
+Country 36,Arabica,471850680,2014,23856000.0,North America
+Country 36,Arabica,471850680,2015,24528000.0,North America
+Country 36,Arabica,471850680,2016,24864000.0,North America
+Country 36,Arabica,471850680,2017,25200000.0,North America
+Country 36,Arabica,471850680,2018,25200000.0,North America
 Country 36,Arabica,471850680,2019,23520000.0,North America
+Country 37,Robusta/Arabica,2093460000,1990,60681600.0,Asia
+Country 37,Robusta/Arabica,2093460000,1991,61600022.4,Asia
+Country 37,Robusta/Arabica,2093460000,1992,61622400.0,Asia
+Country 37,Robusta/Arabica,2093460000,1993,55999977.6,Asia
+Country 37,Robusta/Arabica,2093460000,1994,56112000.0,Asia
+Country 37,Robusta/Arabica,2093460000,1995,56246400.0,Asia
+Country 37,Robusta/Arabica,2093460000,1996,56313600.0,Asia
+Country 37,Robusta/Arabica,2093460000,1997,56380800.0,Asia
+Country 37,Robusta/Arabica,2093460000,1998,60480000.0,Asia
+Country 37,Robusta/Arabica,2093460000,1999,62160000.0,Asia
+Country 37,Robusta/Arabica,2093460000,2000,65520000.0,Asia
+Country 37,Robusta/Arabica,2093460000,2001,71702400.0,Asia
+Country 37,Robusta/Arabica,2093460000,2002,76137600.0,Asia
+Country 37,Robusta/Arabica,2093460000,2003,78422400.0,Asia
+Country 37,Robusta/Arabica,2093460000,2004,80774400.0,Asia
+Country 37,Robusta/Arabica,2093460000,2005,83193600.0,Asia
+Country 37,Robusta/Arabica,2093460000,2006,85680000.0,Asia
+Country 37,Robusta/Arabica,2093460000,2007,90720000.0,Asia
+Country 37,Robusta/Arabica,2093460000,2008,85680000.0,Asia
+Country 37,Robusta/Arabica,2093460000,2009,89040000.0,Asia
+Country 37,Robusta/Arabica,2093460000,2010,89040000.0,Asia
+Country 37,Robusta/Arabica,2093460000,2011,89040000.0,Asia
+Country 37,Robusta/Arabica,2093460000,2012,92400000.0,Asia
+Country 37,Robusta/Arabica,2093460000,2013,94080000.0,Asia
+Country 37,Robusta/Arabica,2093460000,2014,96096000.0,Asia
+Country 37,Robusta/Arabica,2093460000,2015,97440000.0,Asia
+Country 37,Robusta/Arabica,2093460000,2016,96768000.0,Asia
+Country 37,Robusta/Arabica,2093460000,2017,98784000.0,Asia
+Country 37,Robusta/Arabica,2093460000,2018,99120000.0,Asia
 Country 37,Robusta/Arabica,2093460000,2019,97440000.0,Asia
+Country 38,Arabica,18688020,1990,470400.0,North America
+Country 38,Arabica,18688020,1991,739200.0,North America
+Country 38,Arabica,18688020,1992,403200.0,North America
+Country 38,Arabica,18688020,1993,645120.0,North America
+Country 38,Arabica,18688020,1994,1008000.0,North America
+Country 38,Arabica,18688020,1995,1008000.0,North America
+Country 38,Arabica,18688020,1996,1209600.0,North America
+Country 38,Arabica,18688020,1997,1344000.0,North America
+Country 38,Arabica,18688020,1998,994560.0,North America
+Country 38,Arabica,18688020,1999,739200.0,North America
+Country 38,Arabica,18688020,2000,810902.4,North America
+Country 38,Arabica,18688020,2001,672000.0,North America
+Country 38,Arabica,18688020,2002,604800.0,North America
+Country 38,Arabica,18688020,2003,604800.0,North America
+Country 38,Arabica,18688020,2004,604800.0,North America
+Country 38,Arabica,18688020,2005,604800.0,North America
+Country 38,Arabica,18688020,2006,604800.0,North America
+Country 38,Arabica,18688020,2007,604800.0,North America
+Country 38,Arabica,18688020,2008,604800.0,North America
+Country 38,Arabica,18688020,2009,604800.0,North America
+Country 38,Arabica,18688020,2010,604800.0,North America
+Country 38,Arabica,18688020,2011,604800.0,North America
+Country 38,Arabica,18688020,2012,604800.0,North America
+Country 38,Arabica,18688020,2013,604800.0,North America
+Country 38,Arabica,18688020,2014,604800.0,North America
+Country 38,Arabica,18688020,2015,604800.0,North America
+Country 38,Arabica,18688020,2016,604800.0,North America
+Country 38,Arabica,18688020,2017,604800.0,North America
+Country 38,Arabica,18688020,2018,604800.0,North America
 Country 38,Arabica,18688020,2019,604800.0,North America
+Country 39,Arabica,95190000,1990,3360000.0,Africa
+Country 39,Arabica,95190000,1991,3360000.0,Africa
+Country 39,Arabica,95190000,1992,3360000.0,Africa
+Country 39,Arabica,95190000,1993,3360000.0,Africa
+Country 39,Arabica,95190000,1994,3360000.0,Africa
+Country 39,Arabica,95190000,1995,3360000.0,Africa
+Country 39,Arabica,95190000,1996,3360000.0,Africa
+Country 39,Arabica,95190000,1997,3360000.0,Africa
+Country 39,Arabica,95190000,1998,3360000.0,Africa
+Country 39,Arabica,95190000,1999,3360000.0,Africa
+Country 39,Arabica,95190000,2000,3360000.0,Africa
+Country 39,Arabica,95190000,2001,3360000.0,Africa
+Country 39,Arabica,95190000,2002,3360000.0,Africa
+Country 39,Arabica,95190000,2003,3360000.0,Africa
+Country 39,Arabica,95190000,2004,3360000.0,Africa
+Country 39,Arabica,95190000,2005,3360000.0,Africa
+Country 39,Arabica,95190000,2006,3360000.0,Africa
+Country 39,Arabica,95190000,2007,3360000.0,Africa
+Country 39,Arabica,95190000,2008,3360000.0,Africa
+Country 39,Arabica,95190000,2009,3360000.0,Africa
+Country 39,Arabica,95190000,2010,3360000.0,Africa
+Country 39,Arabica,95190000,2011,3360000.0,Africa
+Country 39,Arabica,95190000,2012,3360000.0,Africa
+Country 39,Arabica,95190000,2013,3696000.0,Africa
+Country 39,Arabica,95190000,2014,3696000.0,Africa
+Country 39,Arabica,95190000,2015,4032000.0,Africa
+Country 39,Arabica,95190000,2016,4032000.0,Africa
+Country 39,Arabica,95190000,2017,4368000.0,Africa
+Country 39,Arabica,95190000,2018,4704000.0,Africa
 Country 39,Arabica,95190000,2019,4804800.0,Africa
+Country 4,Arabica/Robusta,3412020,1990,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,1991,107520.0,Africa
+Country 4,Arabica/Robusta,3412020,1992,114240.0,Africa
+Country 4,Arabica/Robusta,3412020,1993,128352.0,Africa
+Country 4,Arabica/Robusta,3412020,1994,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,1995,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,1996,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,1997,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,1998,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,1999,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,2000,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,2001,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,2002,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,2003,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,2004,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,2005,128083.2,Africa
+Country 4,Arabica/Robusta,3412020,2006,104832.0,Africa
+Country 4,Arabica/Robusta,3412020,2007,91190.4,Africa
+Country 4,Arabica/Robusta,3412020,2008,96432.0,Africa
+Country 4,Arabica/Robusta,3412020,2009,94012.8,Africa
+Country 4,Arabica/Robusta,3412020,2010,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,2011,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,2012,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,2013,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,2014,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,2015,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,2016,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,2017,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,2018,134400.0,Africa
+Country 4,Arabica/Robusta,3412020,2019,134400.0,Africa
+Country 40,Robusta,157980000,2002,10617600.0,Asia
+Country 40,Robusta,157980000,2003,6921600.0,Asia
+Country 40,Robusta,157980000,2004,9072000.0,Asia
+Country 40,Robusta,157980000,2005,9408000.0,Asia
+Country 40,Robusta,157980000,2006,9408000.0,Asia
+Country 40,Robusta,157980000,2007,9408000.0,Asia
+Country 40,Robusta,157980000,2008,10080000.0,Asia
+Country 40,Robusta,157980000,2009,10080000.0,Asia
+Country 40,Robusta,157980000,2010,10080000.0,Asia
+Country 40,Robusta,157980000,2011,10080000.0,Asia
+Country 40,Robusta,157980000,2012,10080000.0,Asia
+Country 40,Robusta,157980000,2013,10080000.0,Asia
+Country 40,Robusta,157980000,2014,10080000.0,Asia
+Country 40,Robusta,157980000,2015,10080000.0,Asia
+Country 40,Robusta,157980000,2016,10080000.0,Asia
+Country 40,Robusta,157980000,2017,10416000.0,Asia
+Country 40,Robusta,157980000,2018,10416000.0,Asia
 Country 40,Robusta,157980000,2019,10550400.0,Asia
+Country 41,Robusta,8640000,1990,201600.0,Africa
+Country 41,Robusta,8640000,1991,201600.0,Africa
+Country 41,Robusta,8640000,1992,201600.0,Africa
+Country 41,Robusta,8640000,1993,336000.0,Africa
+Country 41,Robusta,8640000,1994,336000.0,Africa
+Country 41,Robusta,8640000,1995,336000.0,Africa
+Country 41,Robusta,8640000,1996,336000.0,Africa
+Country 41,Robusta,8640000,1997,336000.0,Africa
+Country 41,Robusta,8640000,1998,336000.0,Africa
+Country 41,Robusta,8640000,1999,336000.0,Africa
+Country 41,Robusta,8640000,2000,336000.0,Africa
+Country 41,Robusta,8640000,2001,336000.0,Africa
+Country 41,Robusta,8640000,2002,336000.0,Africa
+Country 41,Robusta,8640000,2003,336000.0,Africa
+Country 41,Robusta,8640000,2004,336000.0,Africa
+Country 41,Robusta,8640000,2005,336000.0,Africa
+Country 41,Robusta,8640000,2006,336000.0,Africa
+Country 41,Robusta,8640000,2007,336000.0,Africa
+Country 41,Robusta,8640000,2008,336000.0,Africa
+Country 41,Robusta,8640000,2009,336000.0,Africa
+Country 41,Robusta,8640000,2010,336000.0,Africa
+Country 41,Robusta,8640000,2011,336000.0,Africa
+Country 41,Robusta,8640000,2012,336000.0,Africa
+Country 41,Robusta,8640000,2013,336000.0,Africa
+Country 41,Robusta,8640000,2014,336000.0,Africa
+Country 41,Robusta,8640000,2015,336000.0,Africa
+Country 41,Robusta,8640000,2016,336000.0,Africa
+Country 41,Robusta,8640000,2017,336000.0,Africa
+Country 41,Robusta,8640000,2018,336000.0,Africa
 Country 41,Robusta,8640000,2019,336000.0,Africa
+Country 42,Arabica/Robusta,3189660000,1990,92332800.0,North America
+Country 42,Arabica/Robusta,3189660000,1991,80640000.0,North America
+Country 42,Arabica/Robusta,3189660000,1992,87360000.0,North America
+Country 42,Arabica/Robusta,3189660000,1993,71904000.0,North America
+Country 42,Arabica/Robusta,3189660000,1994,68544000.0,North America
+Country 42,Arabica/Robusta,3189660000,1995,79228800.0,North America
+Country 42,Arabica/Robusta,3189660000,1996,82992000.0,North America
+Country 42,Arabica/Robusta,3189660000,1997,80707200.0,North America
+Country 42,Arabica/Robusta,3189660000,1998,74457600.0,North America
+Country 42,Arabica/Robusta,3189660000,1999,77280000.0,North America
+Country 42,Arabica/Robusta,3189660000,2000,87696000.0,North America
+Country 42,Arabica/Robusta,3189660000,2001,100800000.0,North America
+Country 42,Arabica/Robusta,3189660000,2002,100800000.0,North America
+Country 42,Arabica/Robusta,3189660000,2003,100800000.0,North America
+Country 42,Arabica/Robusta,3189660000,2004,100800000.0,North America
+Country 42,Arabica/Robusta,3189660000,2005,115920000.0,North America
+Country 42,Arabica/Robusta,3189660000,2006,134400000.0,North America
+Country 42,Arabica/Robusta,3189660000,2007,147840000.0,North America
+Country 42,Arabica/Robusta,3189660000,2008,147840000.0,North America
+Country 42,Arabica/Robusta,3189660000,2009,147840000.0,North America
+Country 42,Arabica/Robusta,3189660000,2010,158188800.0,North America
+Country 42,Arabica/Robusta,3189660000,2011,158188800.0,North America
+Country 42,Arabica/Robusta,3189660000,2012,158188800.0,North America
+Country 42,Arabica/Robusta,3189660000,2013,155971200.0,North America
+Country 42,Arabica/Robusta,3189660000,2014,157718400.0,North America
+Country 42,Arabica/Robusta,3189660000,2015,156508800.0,North America
+Country 42,Arabica/Robusta,3189660000,2016,158592000.0,North America
+Country 42,Arabica/Robusta,3189660000,2017,161280000.0,North America
+Country 42,Arabica/Robusta,3189660000,2018,164640000.0,North America
 Country 42,Arabica/Robusta,3189660000,2019,162960000.0,North America
+Country 44,Arabica,299700300,1990,2284800.0,North America
+Country 44,Arabica,299700300,1991,9273600.0,North America
+Country 44,Arabica,299700300,1992,4408320.0,North America
+Country 44,Arabica,299700300,1993,7318080.0,North America
+Country 44,Arabica,299700300,1994,6021120.0,North America
+Country 44,Arabica,299700300,1995,7492800.0,North America
+Country 44,Arabica,299700300,1996,6408864.0,North America
+Country 44,Arabica,299700300,1997,8265600.0,North America
+Country 44,Arabica,299700300,1998,8500800.0,North America
+Country 44,Arabica,299700300,1999,8756160.0,North America
+Country 44,Arabica,299700300,2000,11755296.0,North America
+Country 44,Arabica,299700300,2001,11916105.6,North America
+Country 44,Arabica,299700300,2002,12070732.8,North America
+Country 44,Arabica,299700300,2003,12224688.0,North America
+Country 44,Arabica,299700300,2004,12383481.6,North America
+Country 44,Arabica,299700300,2005,12547516.8,North America
+Country 44,Arabica,299700300,2006,12713232.0,North America
+Country 44,Arabica,299700300,2007,12878544.0,North America
+Country 44,Arabica,299700300,2008,13046678.4,North America
+Country 44,Arabica,299700300,2009,13212998.4,North America
+Country 44,Arabica,299700300,2010,13624464.0,North America
+Country 44,Arabica,299700300,2011,13793539.2,North America
+Country 44,Arabica,299700300,2012,13968460.8,North America
+Country 44,Arabica,299700300,2013,14082499.2,North America
+Country 44,Arabica,299700300,2014,14229062.4,North America
+Country 44,Arabica,299700300,2015,14377171.2,North America
+Country 44,Arabica,299700300,2016,14564121.6,North America
+Country 44,Arabica,299700300,2017,14649600.0,North America
+Country 44,Arabica,299700300,2018,14784000.0,North America
 Country 44,Arabica,299700300,2019,14112000.0,North America
+Country 45,Robusta,70740000,1990,1848000.0,Africa
+Country 45,Robusta,70740000,1991,2402400.0,Africa
+Country 45,Robusta,70740000,1992,2402400.0,Africa
+Country 45,Robusta,70740000,1993,2688000.0,Africa
+Country 45,Robusta,70740000,1994,2688000.0,Africa
+Country 45,Robusta,70740000,1995,2688000.0,Africa
+Country 45,Robusta,70740000,1996,2688000.0,Africa
+Country 45,Robusta,70740000,1997,2688000.0,Africa
+Country 45,Robusta,70740000,1998,2688000.0,Africa
+Country 45,Robusta,70740000,1999,2688000.0,Africa
+Country 45,Robusta,70740000,2000,2688000.0,Africa
+Country 45,Robusta,70740000,2001,2688000.0,Africa
+Country 45,Robusta,70740000,2002,2688000.0,Africa
+Country 45,Robusta,70740000,2003,2688000.0,Africa
+Country 45,Robusta,70740000,2004,2688000.0,Africa
+Country 45,Robusta,70740000,2005,2688000.0,Africa
+Country 45,Robusta,70740000,2006,2688000.0,Africa
+Country 45,Robusta,70740000,2007,2688000.0,Africa
+Country 45,Robusta,70740000,2008,2688000.0,Africa
+Country 45,Robusta,70740000,2009,2688000.0,Africa
+Country 45,Robusta,70740000,2010,2688000.0,Africa
+Country 45,Robusta,70740000,2011,2688000.0,Africa
+Country 45,Robusta,70740000,2012,2688000.0,Africa
+Country 45,Robusta,70740000,2013,2688000.0,Africa
+Country 45,Robusta,70740000,2014,2688000.0,Africa
+Country 45,Robusta,70740000,2015,2688000.0,Africa
+Country 45,Robusta,70740000,2016,2688000.0,Africa
+Country 45,Robusta,70740000,2017,2688000.0,Africa
+Country 45,Robusta,70740000,2018,2688000.0,Africa
 Country 45,Robusta,70740000,2019,2688000.0,Africa
+Country 46,Arabica,122916960,1990,4233600.0,North America
+Country 46,Arabica,122916960,1991,4502400.0,North America
+Country 46,Arabica,122916960,1992,4502400.0,North America
+Country 46,Arabica,122916960,1993,4502400.0,North America
+Country 46,Arabica,122916960,1994,5152022.4,North America
+Country 46,Arabica,122916960,1995,5152022.4,North America
+Country 46,Arabica,122916960,1996,5152022.4,North America
+Country 46,Arabica,122916960,1997,5417328.0,North America
+Country 46,Arabica,122916960,1998,4502400.0,North America
+Country 46,Arabica,122916960,1999,4502400.0,North America
+Country 46,Arabica,122916960,2000,4502400.0,North America
+Country 46,Arabica,122916960,2001,4502400.0,North America
+Country 46,Arabica,122916960,2002,4502400.0,North America
+Country 46,Arabica,122916960,2003,4502400.0,North America
+Country 46,Arabica,122916960,2004,4502400.0,North America
+Country 46,Arabica,122916960,2005,4502400.0,North America
+Country 46,Arabica,122916960,2006,4502400.0,North America
+Country 46,Arabica,122916960,2007,4502400.0,North America
+Country 46,Arabica,122916960,2008,4502400.0,North America
+Country 46,Arabica,122916960,2009,4502400.0,North America
+Country 46,Arabica,122916960,2010,4502400.0,North America
+Country 46,Arabica,122916960,2011,4502400.0,North America
+Country 46,Arabica,122916960,2012,4502400.0,North America
+Country 46,Arabica,122916960,2013,4502400.0,North America
+Country 46,Arabica,122916960,2014,4502400.0,North America
+Country 46,Arabica,122916960,2015,4502400.0,North America
+Country 46,Arabica,122916960,2016,4502400.0,North America
+Country 46,Arabica,122916960,2017,4502400.0,North America
+Country 46,Arabica,122916960,2018,4502400.0,North America
 Country 46,Arabica,122916960,2019,4502400.0,North America
+Country 47,Robusta,10080000,1990,604800.0,Africa
+Country 47,Robusta,10080000,1991,604800.0,Africa
+Country 47,Robusta,10080000,1992,604800.0,Africa
+Country 47,Robusta,10080000,1993,336000.0,Africa
+Country 47,Robusta,10080000,1994,336000.0,Africa
+Country 47,Robusta,10080000,1995,537600.0,Africa
+Country 47,Robusta,10080000,1996,537600.0,Africa
+Country 47,Robusta,10080000,1997,336000.0,Africa
+Country 47,Robusta,10080000,1998,336000.0,Africa
+Country 47,Robusta,10080000,1999,336000.0,Africa
+Country 47,Robusta,10080000,2000,336000.0,Africa
+Country 47,Robusta,10080000,2001,336000.0,Africa
+Country 47,Robusta,10080000,2002,336000.0,Africa
+Country 47,Robusta,10080000,2003,336000.0,Africa
+Country 47,Robusta,10080000,2004,336000.0,Africa
+Country 47,Robusta,10080000,2005,336000.0,Africa
+Country 47,Robusta,10080000,2006,336000.0,Africa
+Country 47,Robusta,10080000,2007,336000.0,Africa
+Country 47,Robusta,10080000,2008,336000.0,Africa
+Country 47,Robusta,10080000,2009,336000.0,Africa
+Country 47,Robusta,10080000,2010,336000.0,Africa
+Country 47,Robusta,10080000,2011,336000.0,Africa
+Country 47,Robusta,10080000,2012,336000.0,Africa
+Country 47,Robusta,10080000,2013,336000.0,Africa
+Country 47,Robusta,10080000,2014,336000.0,Africa
+Country 47,Robusta,10080000,2015,336000.0,Africa
+Country 47,Robusta,10080000,2016,336000.0,Africa
+Country 47,Robusta,10080000,2017,336000.0,Africa
+Country 47,Robusta,10080000,2018,336000.0,Africa
 Country 47,Robusta,10080000,2019,336000.0,Africa
+Country 48,Robusta/Arabica,58300020,1990,4480022.4,Asia
+Country 48,Robusta/Arabica,58300020,1991,4502400.0,Asia
+Country 48,Robusta/Arabica,58300020,1992,1881600.0,Asia
+Country 48,Robusta/Arabica,58300020,1993,1344000.0,Asia
+Country 48,Robusta/Arabica,58300020,1994,1344000.0,Asia
+Country 48,Robusta/Arabica,58300020,1995,1344000.0,Asia
+Country 48,Robusta/Arabica,58300020,1996,1344000.0,Asia
+Country 48,Robusta/Arabica,58300020,1997,1344000.0,Asia
+Country 48,Robusta/Arabica,58300020,1998,2016000.0,Asia
+Country 48,Robusta/Arabica,58300020,1999,2016000.0,Asia
+Country 48,Robusta/Arabica,58300020,2000,2016000.0,Asia
+Country 48,Robusta/Arabica,58300020,2001,2016000.0,Asia
+Country 48,Robusta/Arabica,58300020,2002,2016000.0,Asia
+Country 48,Robusta/Arabica,58300020,2003,2016000.0,Asia
+Country 48,Robusta/Arabica,58300020,2004,2016000.0,Asia
+Country 48,Robusta/Arabica,58300020,2005,2016000.0,Asia
+Country 48,Robusta/Arabica,58300020,2006,2016000.0,Asia
+Country 48,Robusta/Arabica,58300020,2007,2016000.0,Asia
+Country 48,Robusta/Arabica,58300020,2008,2016000.0,Asia
+Country 48,Robusta/Arabica,58300020,2009,2016000.0,Asia
+Country 48,Robusta/Arabica,58300020,2010,2352000.0,Asia
+Country 48,Robusta/Arabica,58300020,2011,2352000.0,Asia
+Country 48,Robusta/Arabica,58300020,2012,2352000.0,Asia
+Country 48,Robusta/Arabica,58300020,2013,2352000.0,Asia
+Country 48,Robusta/Arabica,58300020,2014,2352000.0,Asia
+Country 48,Robusta/Arabica,58300020,2015,2352000.0,Asia
+Country 48,Robusta/Arabica,58300020,2016,2352000.0,Asia
+Country 48,Robusta/Arabica,58300020,2017,2352000.0,Asia
+Country 48,Robusta/Arabica,58300020,2018,2352000.0,Asia
 Country 48,Robusta/Arabica,58300020,2019,2352000.0,Asia
+Country 49,Robusta/Arabica,1248600000,1990,12633600.0,Asia
+Country 49,Robusta/Arabica,1248600000,1991,14784000.0,Asia
+Country 49,Robusta/Arabica,1248600000,1992,15657600.0,Asia
+Country 49,Robusta/Arabica,1248600000,1993,16800000.0,Asia
+Country 49,Robusta/Arabica,1248600000,1994,19017600.0,Asia
+Country 49,Robusta/Arabica,1248600000,1995,28022400.0,Asia
+Country 49,Robusta/Arabica,1248600000,1996,22377600.0,Asia
+Country 49,Robusta/Arabica,1248600000,1997,26208000.0,Asia
+Country 49,Robusta/Arabica,1248600000,1998,29097600.0,Asia
+Country 49,Robusta/Arabica,1248600000,1999,29097600.0,Asia
+Country 49,Robusta/Arabica,1248600000,2000,33600000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2001,33600000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2002,33600000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2003,33600000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2004,33600000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2005,33600000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2006,33600000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2007,36960000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2008,40320000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2009,47040000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2010,52080000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2011,73920000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2012,75936000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2013,80640000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2014,84000000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2015,87360000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2016,90720000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2017,92400000.0,Asia
+Country 49,Robusta/Arabica,1248600000,2018,94080000.0,Asia
 Country 49,Robusta/Arabica,1248600000,2019,94080000.0,Asia
+Country 5,Arabica/Robusta,381540000,1990,23520000.0,South America
+Country 5,Arabica/Robusta,381540000,1991,23520000.0,South America
+Country 5,Arabica/Robusta,381540000,1992,23520000.0,South America
+Country 5,Arabica/Robusta,381540000,1993,23520000.0,South America
+Country 5,Arabica/Robusta,381540000,1994,23520000.0,South America
+Country 5,Arabica/Robusta,381540000,1995,23520000.0,South America
+Country 5,Arabica/Robusta,381540000,1996,20160000.0,South America
+Country 5,Arabica/Robusta,381540000,1997,20160000.0,South America
+Country 5,Arabica/Robusta,381540000,1998,20160000.0,South America
+Country 5,Arabica/Robusta,381540000,1999,15456000.0,South America
+Country 5,Arabica/Robusta,381540000,2000,13440000.0,South America
+Country 5,Arabica/Robusta,381540000,2001,13440000.0,South America
+Country 5,Arabica/Robusta,381540000,2002,10080000.0,South America
+Country 5,Arabica/Robusta,381540000,2003,10080000.0,South America
+Country 5,Arabica/Robusta,381540000,2004,10080000.0,South America
+Country 5,Arabica/Robusta,381540000,2005,10080000.0,South America
+Country 5,Arabica/Robusta,381540000,2006,10080000.0,South America
+Country 5,Arabica/Robusta,381540000,2007,10080000.0,South America
+Country 5,Arabica/Robusta,381540000,2008,10080000.0,South America
+Country 5,Arabica/Robusta,381540000,2009,10080000.0,South America
+Country 5,Arabica/Robusta,381540000,2010,10080000.0,South America
+Country 5,Arabica/Robusta,381540000,2011,10080000.0,South America
+Country 5,Arabica/Robusta,381540000,2012,10080000.0,South America
+Country 5,Arabica/Robusta,381540000,2013,10416000.0,South America
+Country 5,Arabica/Robusta,381540000,2014,10416000.0,South America
+Country 5,Arabica/Robusta,381540000,2015,10416000.0,South America
+Country 5,Arabica/Robusta,381540000,2016,10416000.0,South America
+Country 5,Arabica/Robusta,381540000,2017,10416000.0,South America
+Country 5,Arabica/Robusta,381540000,2018,10416000.0,South America
+Country 5,Arabica/Robusta,381540000,2019,10012800.0,South America
+Country 50,Robusta,2167620,1990,67200.0,Africa
+Country 50,Robusta,2167620,1991,67200.0,Africa
+Country 50,Robusta,2167620,1992,67200.0,Africa
+Country 50,Robusta,2167620,1993,67200.0,Africa
+Country 50,Robusta,2167620,1994,67200.0,Africa
+Country 50,Robusta,2167620,1995,67200.0,Africa
+Country 50,Robusta,2167620,1996,67200.0,Africa
+Country 50,Robusta,2167620,1997,67200.0,Africa
+Country 50,Robusta,2167620,1998,134400.0,Africa
+Country 50,Robusta,2167620,1999,134400.0,Africa
+Country 50,Robusta,2167620,2000,134400.0,Africa
+Country 50,Robusta,2167620,2001,134400.0,Africa
+Country 50,Robusta,2167620,2002,134400.0,Africa
+Country 50,Robusta,2167620,2003,134400.0,Africa
+Country 50,Robusta,2167620,2004,134400.0,Africa
+Country 50,Robusta,2167620,2005,134400.0,Africa
+Country 50,Robusta,2167620,2006,134400.0,Africa
+Country 50,Robusta,2167620,2007,134400.0,Africa
+Country 50,Robusta,2167620,2008,134400.0,Africa
+Country 50,Robusta,2167620,2009,134400.0,Africa
+Country 50,Robusta,2167620,2010,134400.0,Africa
+Country 50,Robusta,2167620,2011,14112.0,Africa
+Country 50,Robusta,2167620,2012,16262.4,Africa
+Country 50,Robusta,2167620,2013,15993.6,Africa
+Country 50,Robusta,2167620,2014,13104.0,Africa
+Country 50,Robusta,2167620,2015,14784.0,Africa
+Country 50,Robusta,2167620,2016,17068.8,Africa
+Country 50,Robusta,2167620,2017,17068.8,Africa
+Country 50,Robusta,2167620,2018,17068.8,Africa
 Country 50,Robusta,2167620,2019,17472.0,Africa
+Country 51,Robusta,21090000,1990,537600.0,North America
+Country 51,Robusta,21090000,1991,772800.0,North America
+Country 51,Robusta,21090000,1992,672000.0,North America
+Country 51,Robusta,21090000,1993,672000.0,North America
+Country 51,Robusta,21090000,1994,940800.0,North America
+Country 51,Robusta,21090000,1995,940800.0,North America
+Country 51,Robusta,21090000,1996,940800.0,North America
+Country 51,Robusta,21090000,1997,940800.0,North America
+Country 51,Robusta,21090000,1998,940800.0,North America
+Country 51,Robusta,21090000,1999,940800.0,North America
+Country 51,Robusta,21090000,2000,940800.0,North America
+Country 51,Robusta,21090000,2001,940800.0,North America
+Country 51,Robusta,21090000,2002,940800.0,North America
+Country 51,Robusta,21090000,2003,940800.0,North America
+Country 51,Robusta,21090000,2004,940800.0,North America
+Country 51,Robusta,21090000,2005,940800.0,North America
+Country 51,Robusta,21090000,2006,739200.0,North America
+Country 51,Robusta,21090000,2007,739200.0,North America
+Country 51,Robusta,21090000,2008,739200.0,North America
+Country 51,Robusta,21090000,2009,739200.0,North America
+Country 51,Robusta,21090000,2010,672000.0,North America
+Country 51,Robusta,21090000,2011,672000.0,North America
+Country 51,Robusta,21090000,2012,672000.0,North America
+Country 51,Robusta,21090000,2013,672000.0,North America
+Country 51,Robusta,21090000,2014,672000.0,North America
+Country 51,Robusta,21090000,2015,672000.0,North America
+Country 51,Robusta,21090000,2016,672000.0,North America
+Country 51,Robusta,21090000,2017,672000.0,North America
+Country 51,Robusta,21090000,2018,672000.0,North America
 Country 51,Robusta,21090000,2019,672000.0,North America
+Country 52,Robusta/Arabica,284816400,1990,4704000.0,Africa
+Country 52,Robusta/Arabica,284816400,1991,5040000.0,Africa
+Country 52,Robusta/Arabica,284816400,1992,5040000.0,Africa
+Country 52,Robusta/Arabica,284816400,1993,5040000.0,Africa
+Country 52,Robusta/Arabica,284816400,1994,5376000.0,Africa
+Country 52,Robusta/Arabica,284816400,1995,5376000.0,Africa
+Country 52,Robusta/Arabica,284816400,1996,5376000.0,Africa
+Country 52,Robusta/Arabica,284816400,1997,6799968.0,Africa
+Country 52,Robusta/Arabica,284816400,1998,7795200.0,Africa
+Country 52,Robusta/Arabica,284816400,1999,7996800.0,Africa
+Country 52,Robusta/Arabica,284816400,2000,9542400.0,Africa
+Country 52,Robusta/Arabica,284816400,2001,9475200.0,Africa
+Country 52,Robusta/Arabica,284816400,2002,9408000.0,Africa
+Country 52,Robusta/Arabica,284816400,2003,8803200.0,Africa
+Country 52,Robusta/Arabica,284816400,2004,9408000.0,Africa
+Country 52,Robusta/Arabica,284816400,2005,10080000.0,Africa
+Country 52,Robusta/Arabica,284816400,2006,11760000.0,Africa
+Country 52,Robusta/Arabica,284816400,2007,12112800.0,Africa
+Country 52,Robusta/Arabica,284816400,2008,12432000.0,Africa
+Country 52,Robusta/Arabica,284816400,2009,12680640.0,Africa
+Country 52,Robusta/Arabica,284816400,2010,13708800.0,Africa
+Country 52,Robusta/Arabica,284816400,2011,14112000.0,Africa
+Country 52,Robusta/Arabica,284816400,2012,14515200.0,Africa
+Country 52,Robusta/Arabica,284816400,2013,14837760.0,Africa
+Country 52,Robusta/Arabica,284816400,2014,15402240.0,Africa
+Country 52,Robusta/Arabica,284816400,2015,15724800.0,Africa
+Country 52,Robusta/Arabica,284816400,2016,16128000.0,Africa
+Country 52,Robusta/Arabica,284816400,2017,16450560.0,Africa
+Country 52,Robusta/Arabica,284816400,2018,16800000.0,Africa
 Country 52,Robusta/Arabica,284816400,2019,17068800.0,Africa
+Country 53,Arabica,2386067999,1990,52576608.0,South America
+Country 53,Arabica,2386067999,1991,54800256.0,South America
+Country 53,Arabica,2386067999,1992,57117984.0,South America
+Country 53,Arabica,2386067999,1993,59534496.0,South America
+Country 53,Arabica,2386067999,1994,62052480.0,South America
+Country 53,Arabica,2386067999,1995,64677312.0,South America
+Country 53,Arabica,2386067999,1996,67413696.0,South America
+Country 53,Arabica,2386067999,1997,70264990.88,South America
+Country 53,Arabica,2386067999,1998,73237248.0,South America
+Country 53,Arabica,2386067999,1999,76335168.0,South America
+Country 53,Arabica,2386067999,2000,79564128.0,South America
+Country 53,Arabica,2386067999,2001,82929504.0,South America
+Country 53,Arabica,2386067999,2002,86437344.0,South America
+Country 53,Arabica,2386067999,2003,90093696.0,South America
+Country 53,Arabica,2386067999,2004,93904608.0,South America
+Country 53,Arabica,2386067999,2005,97876800.0,South America
+Country 53,Arabica,2386067999,2006,102016992.0,South America
+Country 53,Arabica,2386067999,2007,106332576.0,South America
+Country 53,Arabica,2386067999,2008,110830272.0,South America
+Country 53,Arabica,2386067999,2009,110880000.0,South America
+Country 53,Arabica,2386067999,2010,110880000.0,South America
+Country 53,Arabica,2386067999,2011,110880000.0,South America
+Country 53,Arabica,2386067999,2012,110880000.0,South America
+Country 53,Arabica,2386067999,2013,110880000.0,South America
+Country 53,Arabica,2386067999,2014,110880000.0,South America
+Country 53,Arabica,2386067999,2015,110880000.0,South America
+Country 53,Arabica,2386067999,2016,110880000.0,South America
+Country 53,Arabica,2386067999,2017,107520000.0,South America
+Country 53,Arabica,2386067999,2018,104160000.0,South America
 Country 53,Arabica,2386067999,2019,85680000.0,South America
+Country 54,Robusta/Arabica,1920928320,1990,10080000.0,Asia
+Country 54,Robusta/Arabica,1920928320,1991,15456000.0,Asia
+Country 54,Robusta/Arabica,1920928320,1992,16800000.0,Asia
+Country 54,Robusta/Arabica,1920928320,1993,17942400.0,Asia
+Country 54,Robusta/Arabica,1920928320,1994,17942400.0,Asia
+Country 54,Robusta/Arabica,1920928320,1995,18939984.0,Asia
+Country 54,Robusta/Arabica,1920928320,1996,19993075.2,Asia
+Country 54,Robusta/Arabica,1920928320,1997,21104697.6,Asia
+Country 54,Robusta/Arabica,1920928320,1998,22278076.8,Asia
+Country 54,Robusta/Arabica,1920928320,1999,23520000.0,Asia
+Country 54,Robusta/Arabica,1920928320,2000,26989200.0,Asia
+Country 54,Robusta/Arabica,1920928320,2001,30970128.0,Asia
+Country 54,Robusta/Arabica,1920928320,2002,34866182.4,Asia
+Country 54,Robusta/Arabica,1920928320,2003,40780051.2,Asia
+Country 54,Robusta/Arabica,1920928320,2004,46795123.2,Asia
+Country 54,Robusta/Arabica,1920928320,2005,53760000.0,Asia
+Country 54,Robusta/Arabica,1920928320,2006,61622400.0,Asia
+Country 54,Robusta/Arabica,1920928320,2007,63033600.0,Asia
+Country 54,Robusta/Arabica,1920928320,2008,68611200.0,Asia
+Country 54,Robusta/Arabica,1920928320,2009,81177600.0,Asia
+Country 54,Robusta/Arabica,1920928320,2010,106377600.0,Asia
+Country 54,Robusta/Arabica,1920928320,2011,110880000.0,Asia
+Country 54,Robusta/Arabica,1920928320,2012,122640000.0,Asia
+Country 54,Robusta/Arabica,1920928320,2013,134400000.0,Asia
+Country 54,Robusta/Arabica,1920928320,2014,147840000.0,Asia
+Country 54,Robusta/Arabica,1920928320,2015,154560000.0,Asia
+Country 54,Robusta/Arabica,1920928320,2016,161280000.0,Asia
+Country 54,Robusta/Arabica,1920928320,2017,168000000.0,Asia
+Country 54,Robusta/Arabica,1920928320,2018,174720000.0,Asia
 Country 54,Robusta/Arabica,1920928320,2019,178080000.0,Asia
+Country 55,Arabica,121620000,2003,9811200.0,Asia
+Country 55,Arabica,121620000,2004,9139200.0,Asia
+Country 55,Arabica,121620000,2005,9273600.0,Asia
+Country 55,Arabica,121620000,2006,9273600.0,Asia
+Country 55,Arabica,121620000,2007,8736000.0,Asia
+Country 55,Arabica,121620000,2008,8736000.0,Asia
+Country 55,Arabica,121620000,2009,8736000.0,Asia
+Country 55,Arabica,121620000,2010,8736000.0,Asia
+Country 55,Arabica,121620000,2011,8736000.0,Asia
+Country 55,Arabica,121620000,2012,8736000.0,Asia
+Country 55,Arabica,121620000,2013,8736000.0,Asia
+Country 55,Arabica,121620000,2014,8400000.0,Asia
+Country 55,Arabica,121620000,2015,7728000.0,Asia
+Country 55,Arabica,121620000,2016,6720000.0,Asia
+Country 55,Arabica,121620000,2017,6048000.0,Asia
+Country 55,Arabica,121620000,2018,4368000.0,Asia
 Country 55,Arabica,121620000,2019,4300800.0,Asia
+Country 6,Robusta/Arabica,4920480000,1990,83462400.0,Asia
+Country 6,Robusta/Arabica,4920480000,1991,86016000.0,Asia
+Country 6,Robusta/Arabica,4920480000,1992,88636800.0,Asia
+Country 6,Robusta/Arabica,4920480000,1993,91324800.0,Asia
+Country 6,Robusta/Arabica,4920480000,1994,94080000.0,Asia
+Country 6,Robusta/Arabica,4920480000,1995,96969600.0,Asia
+Country 6,Robusta/Arabica,4920480000,1996,99859200.0,Asia
+Country 6,Robusta/Arabica,4920480000,1997,102950400.0,Asia
+Country 6,Robusta/Arabica,4920480000,1998,106041600.0,Asia
+Country 6,Robusta/Arabica,4920480000,1999,109267200.0,Asia
+Country 6,Robusta/Arabica,4920480000,2000,112627200.0,Asia
+Country 6,Robusta/Arabica,4920480000,2001,134400000.0,Asia
+Country 6,Robusta/Arabica,4920480000,2002,119548800.0,Asia
+Country 6,Robusta/Arabica,4920480000,2003,123177600.0,Asia
+Country 6,Robusta/Arabica,4920480000,2004,134400000.0,Asia
+Country 6,Robusta/Arabica,4920480000,2005,168000000.0,Asia
+Country 6,Robusta/Arabica,4920480000,2006,190377600.0,Asia
+Country 6,Robusta/Arabica,4920480000,2007,223977600.0,Asia
+Country 6,Robusta/Arabica,4920480000,2008,223977600.0,Asia
+Country 6,Robusta/Arabica,4920480000,2009,223977600.0,Asia
+Country 6,Robusta/Arabica,4920480000,2010,223977600.0,Asia
+Country 6,Robusta/Arabica,4920480000,2011,246422400.0,Asia
+Country 6,Robusta/Arabica,4920480000,2012,262080000.0,Asia
+Country 6,Robusta/Arabica,4920480000,2013,285600000.0,Asia
+Country 6,Robusta/Arabica,4920480000,2014,296822400.0,Asia
+Country 6,Robusta/Arabica,4920480000,2015,305760000.0,Asia
+Country 6,Robusta/Arabica,4920480000,2016,312480000.0,Asia
+Country 6,Robusta/Arabica,4920480000,2017,319200000.0,Asia
+Country 6,Robusta/Arabica,4920480000,2018,322560000.0,Asia
+Country 6,Robusta/Arabica,4920480000,2019,322963200.0,Asia
+Country 7,Robusta,588705960,1990,23520000.0,Africa
+Country 7,Robusta,588705960,1991,20160000.0,Africa
+Country 7,Robusta,588705960,1992,23520000.0,Africa
+Country 7,Robusta,588705960,1993,24192000.0,Africa
+Country 7,Robusta,588705960,1994,11199955.2,Africa
+Country 7,Robusta,588705960,1995,11222400.0,Africa
+Country 7,Robusta,588705960,1996,11222400.0,Africa
+Country 7,Robusta,588705960,1997,11222400.0,Africa
+Country 7,Robusta,588705960,1998,11222400.0,Africa
+Country 7,Robusta,588705960,1999,3763200.0,Africa
+Country 7,Robusta,588705960,2000,5987520.0,Africa
+Country 7,Robusta,588705960,2001,8601600.0,Africa
+Country 7,Robusta,588705960,2002,14582400.0,Africa
+Country 7,Robusta,588705960,2003,22377600.0,Africa
+Country 7,Robusta,588705960,2004,31382400.0,Africa
+Country 7,Robusta,588705960,2005,31382400.0,Africa
+Country 7,Robusta,588705960,2006,31382400.0,Africa
+Country 7,Robusta,588705960,2007,31382400.0,Africa
+Country 7,Robusta,588705960,2008,31382400.0,Africa
+Country 7,Robusta,588705960,2009,31382400.0,Africa
+Country 7,Robusta,588705960,2010,31382400.0,Africa
+Country 7,Robusta,588705960,2011,30240000.0,Africa
+Country 7,Robusta,588705960,2012,28896000.0,Africa
+Country 7,Robusta,588705960,2013,27552000.0,Africa
+Country 7,Robusta,588705960,2014,26208000.0,Africa
+Country 7,Robusta,588705960,2015,24864000.0,Africa
+Country 7,Robusta,588705960,2016,24192000.0,Africa
+Country 7,Robusta,588705960,2017,24528000.0,Africa
+Country 7,Robusta,588705960,2018,25200000.0,Africa
+Country 7,Robusta,588705960,2019,25200000.0,Africa
+Country 8,Arabica,2340000,1990,134400.0,Africa
+Country 8,Arabica,2340000,1991,134400.0,Africa
+Country 8,Arabica,2340000,1992,134400.0,Africa
+Country 8,Arabica,2340000,1993,134400.0,Africa
+Country 8,Arabica,2340000,1994,134400.0,Africa
+Country 8,Arabica,2340000,1995,134400.0,Africa
+Country 8,Arabica,2340000,1996,134400.0,Africa
+Country 8,Arabica,2340000,1997,134400.0,Africa
+Country 8,Arabica,2340000,1998,134400.0,Africa
+Country 8,Arabica,2340000,1999,67200.0,Africa
+Country 8,Arabica,2340000,2000,67200.0,Africa
+Country 8,Arabica,2340000,2001,67200.0,Africa
+Country 8,Arabica,2340000,2002,67200.0,Africa
+Country 8,Arabica,2340000,2003,67200.0,Africa
+Country 8,Arabica,2340000,2004,67200.0,Africa
+Country 8,Arabica,2340000,2005,67200.0,Africa
+Country 8,Arabica,2340000,2006,67200.0,Africa
+Country 8,Arabica,2340000,2007,67200.0,Africa
+Country 8,Arabica,2340000,2008,67200.0,Africa
+Country 8,Arabica,2340000,2009,67200.0,Africa
+Country 8,Arabica,2340000,2010,67200.0,Africa
+Country 8,Arabica,2340000,2011,67200.0,Africa
+Country 8,Arabica,2340000,2012,67200.0,Africa
+Country 8,Arabica,2340000,2013,67200.0,Africa
+Country 8,Arabica,2340000,2014,67200.0,Africa
+Country 8,Arabica,2340000,2015,67200.0,Africa
+Country 8,Arabica,2340000,2016,67200.0,Africa
+Country 8,Arabica,2340000,2017,67200.0,Africa
+Country 8,Arabica,2340000,2018,67200.0,Africa
+Country 8,Arabica,2340000,2019,67200.0,Africa
+Country 9,Arabica/Robusta,3608400,1990,201600.0,Oceania
+Country 9,Arabica/Robusta,3608400,1991,201600.0,Oceania
+Country 9,Arabica/Robusta,3608400,1992,201600.0,Oceania
+Country 9,Arabica/Robusta,3608400,1993,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,1994,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,1995,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,1996,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,1997,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,1998,67200.0,Oceania
+Country 9,Arabica/Robusta,3608400,1999,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,2000,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,2001,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,2002,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,2003,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,2004,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,2005,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,2006,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,2007,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,2008,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,2009,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,2010,96096.0,Oceania
+Country 9,Arabica/Robusta,3608400,2011,83059.2,Oceania
+Country 9,Arabica/Robusta,3608400,2012,114979.2,Oceania
+Country 9,Arabica/Robusta,3608400,2013,137020.8,Oceania
+Country 9,Arabica/Robusta,3608400,2014,129292.8,Oceania
+Country 9,Arabica/Robusta,3608400,2015,120960.0,Oceania
+Country 9,Arabica/Robusta,3608400,2016,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,2017,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,2018,134400.0,Oceania
+Country 9,Arabica/Robusta,3608400,2019,134400.0,Oceania
